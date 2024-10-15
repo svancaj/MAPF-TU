@@ -74,6 +74,28 @@ in_edges(V,E) = InEdges =>
 	end,
 	InEdges = ETMP.
 
+preprocess_mks(At, Pass, Makespan, Agents, Vertices, Edges) =>
+    foreach(A in 1..len(Agents), V in 1..Vertices)
+        (Start,Goal) = Agents[A],
+        optimisitc_path_cost((Start,V),OpCost),
+        pessimistic_path_cost((V,Goal),PesCost),
+        
+        foreach(T in 1..min(Makespan,OpCost))
+            At[T,A,V] = 0
+        end,
+
+        foreach(T in Makespan..-1..max(1,Makespan-PesCost+1))
+            At[T,A,V] = 0
+        end
+    end,
+
+    foreach (T in 1..Makespan-1, A in 1..len(Agents), E in 1..Edges)
+        edgeid(E,U,_,_,_),
+        if At[T,A,U] == 0 then
+            Pass[T,A,E] = 0
+        end
+    end.
+
 get_edges_time(T,EID) = Times =>
     edgeid(EID,_,_,LU,UU),
     Times = min(LU,T)..min(UU,T-1).

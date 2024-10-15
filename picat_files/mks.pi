@@ -47,7 +47,7 @@ create_formula(N, E, Agents, Opt_LB, Pes_LB, Delta) = At =>
                 At[Makespan,A,V] = 0
             end
         end,
-        %preprocess_mks()
+        preprocess_mks(At, Pass, Makespan, Agents, N, E)
     end,
 
     % printf("At: %w\n",At),
