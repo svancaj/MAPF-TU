@@ -96,6 +96,30 @@ preprocess_mks(At, Pass, Makespan, Agents, Vertices, Edges) =>
         end
     end.
 
+preprocess_soc(At, Pass, Makespan, Delta, Agents, Vertices, Edges) =>
+    foreach(A in 1..len(Agents), V in 1..Vertices)
+        (Start,Goal) = Agents[A],
+        optimisitc_path_cost((Start,V),OpCost),
+        pessimistic_path_cost((V,Goal),PesCost),
+        pessimistic_path_cost((Start,Goal),SPCost),
+        
+        foreach(T in 1..min(Makespan,OpCost))
+            At[T,A,V] = 0
+        end,
+
+        foreach(T in SPCost+Delta+1..-1..max(1,SPCost+Delta-PesCost+2))
+            %printf("BC %w can not be in %w at %w\n", A,V,T),
+            At[T,A,V] = 0
+        end
+    end,
+
+    foreach (T in 1..Makespan-1, A in 1..len(Agents), E in 1..Edges)
+        edgeid(E,U,_,_,_),
+        if At[T,A,U] == 0 then
+            Pass[T,A,E] = 0
+        end
+    end.
+
 get_edges_time(T,EID) = Times =>
     edgeid(EID,_,_,LU,UU),
     Times = min(LU,T)..min(UU,T-1).

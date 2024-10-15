@@ -17,7 +17,7 @@ find_plans(Instance) = Plans =>
 
     printf("LB opt - %w, pes - w %w\n", Opt_LB, Pes_LB),
 
-    between(0, 9999999, Delta),
+    between(0, 2, Delta),
 
     printf("Building formula using delta %w\n", Delta),
     time(Plans = create_formula(N, E, Agents, Opt_LB, Pes_LB, Delta)),
@@ -36,11 +36,6 @@ create_formula(N, E, Agents, Opt_LB, Pes_LB, Delta) = At =>
     foreach (A in 1..K)    
         (Start,Goal) = Agents[A],
         At[1,A,Start] = 1,
-        foreach (V in 1..N)
-            if V !== Start then
-                At[1,A,V] = 0
-            end
-        end,
         At[Makespan,A,Goal] = 1,
         foreach (V in 1..N)
             if V !== Goal then
@@ -50,7 +45,7 @@ create_formula(N, E, Agents, Opt_LB, Pes_LB, Delta) = At =>
         preprocess_mks(At, Pass, Makespan, Agents, N, E)
     end,
 
-    % printf("At: %w\n",At),
+    printf("At: %w\n",At),
     % printf("Pass: %w\n",Pass),
 
     At :: 0..1,

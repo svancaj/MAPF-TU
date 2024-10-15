@@ -3,7 +3,7 @@ get_instance() = I =>
     %$neibs(Node_ID,[List_of_neighbours := (Node_ID, min_distance, max_distance)])
     [
     $neibs(1,[(1,1,1),(3,1,5)]),
-    $neibs(2,[(2,1,1),(3,2,3)]),
+    $neibs(2,[(2,1,1),(3,2,2)]),
     $neibs(3,[(3,1,1),(4,1,1),(5,1,1),(1,1,5),(2,2,2)]),
     $neibs(4,[(4,1,1),(3,1,1)]),
     $neibs(5,[(5,1,1),(3,1,1)])
