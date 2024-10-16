@@ -129,7 +129,7 @@ end_time(At, Agents, Makespan, N) = ET =>
 
             (sum([At[T,A,V] : V in 1..N, V !== Goal]) #>= 1) #=> ET[A,T],  % agent is somewhere else than at goal and hence it is late
             #~ ET[A,T] #=> At[T,A,Goal],  % agent is not late and hence must be at destination
-            #~ ET[A,T] #=> (sum([At[T,A,V] : V in 1..N, V !== Goal]) #= 0), % agent is not late and hence must be at destination and nowhere else
+            %#~ ET[A,T] #=> (sum([At[T,A,V] : V in 1..N, V !== Goal]) #= 0), % agent is not late and hence must be at destination and nowhere else
 
             if T < Makespan then 
                 #~ ET[A,T] #=> #~ ET[A,T+1]  % agent is not late at T and hence cannot be late at T+1
