@@ -5,10 +5,10 @@ main([InstanceFile]) =>
     printf("Solving %w instance file\n", InstanceFile),
     load(InstanceFile),
     Instance =  get_instance(),
-    Plans = find_plans(Instance),
-    output(Plans).
+    time((Plans, Final_Cost) = find_plans(Instance)),
+    output(Plans, Final_Cost).
 
-find_plans(Instance) = Plans =>
+find_plans(Instance) = (Plans, Pes_LB + Delta) =>
     (N,E) = create_graph(Instance),
     Agents = get_agents(Instance),
     
@@ -17,12 +17,12 @@ find_plans(Instance) = Plans =>
 
     printf("LB opt - %w, pes - w %w\n", Opt_LB, Pes_LB),
 
-    between(0, 2, Delta),
+    between(0, 9999999, Delta),
 
     printf("Building formula using delta %w\n", Delta),
-    time(Plans = create_formula(N, E, Agents, Opt_LB, Pes_LB, Delta)),
+    Plans = create_formula(N, E, Agents, Opt_LB, Pes_LB, Delta),
     printf("SAT solver started\n"),
-    time(solve(Plans)).
+    solve(Plans).
 
 
 create_formula(N, E, Agents, Opt_LB, Pes_LB, Delta) = At =>
@@ -45,7 +45,7 @@ create_formula(N, E, Agents, Opt_LB, Pes_LB, Delta) = At =>
         preprocess_mks(At, Pass, Makespan, Agents, N, E)
     end,
 
-    printf("At: %w\n",At),
+    % printf("At: %w\n",At),
     % printf("Pass: %w\n",Pass),
 
     At :: 0..1,

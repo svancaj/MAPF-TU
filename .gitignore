@@ -1,0 +1,4 @@
+*.qi
+Conformant-CBS/experiments/*
+Conformant-CBS/solutions/*
+Conformant-CBS/picat_instances/*

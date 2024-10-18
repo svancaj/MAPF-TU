@@ -125,5 +125,5 @@ get_edges_time(T,EID) = Times =>
     Times = min(LU,T)..min(UU,T-1).
     %printf("EID %w, %w, %w - %w, %w\n", EID,T,LU,UU,Times).
 
-output(Plans) =>
-    printf("%w\n", Plans).
+output(Plans, Cost) =>
+    printf("Cost %w\n", Cost).
