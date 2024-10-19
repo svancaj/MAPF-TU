@@ -172,6 +172,15 @@ class Experiments:
                 min_sic = -1
                 max_sic = -1
                 true_sic = -1
+            
+            with open(os.path.join(proj_path, 'cbs_results.txt'), 'a') as result_file:
+                result_file.write(map_type + '\t' + 
+                                    str(self.agents_num) + '\t' +
+                                    str(self.uncertainty) + '\t' +
+                                    str(i) + '\t' + 
+                                    "CBSTU" + '\t' + 
+                                    str(max_sic) + '\t' +
+                                    str(init_time) + '\n')
 
             with open(temp_path, 'a') as temp_map_result_file:
                 objective = 'Min Best Case' if self.min_best_case else 'Min Worst Case'

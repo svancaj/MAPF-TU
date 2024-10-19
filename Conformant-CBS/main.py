@@ -20,4 +20,4 @@ if __name__ == '__main__':
 
     run_experiments(u=(1,3,5), agents=(2,4,6,8,10,12,14,16,18,20), sense_prob=(0,), edge_dist=('uni',),
                     comm_mode=(False,), mbc=(False,), pc=(True,), bp=(True,), 
-                    maps=('empty08','empty16','empty24','random08','random16','random24'), reps=5, time_limit=1)
+                    maps=('empty08','empty16','empty24','random08','random16','random24'), reps=5, time_limit=300)
