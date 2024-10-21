@@ -1,0 +1,1800 @@
+empty08_agents-10_unc-1_0.pi	soc.pi	16	0.75
+empty08_agents-10_unc-1_1.pi	soc.pi	19	1.36
+empty08_agents-10_unc-1_2.pi	soc.pi	15	0.469
+empty08_agents-10_unc-1_3.pi	soc.pi	16	0.5
+empty08_agents-10_unc-1_4.pi	soc.pi	16	0.625
+empty08_agents-10_unc-3_0.pi	soc.pi	25	1.203
+empty08_agents-10_unc-3_1.pi	soc.pi	27	1.75
+empty08_agents-10_unc-3_2.pi	soc.pi	24	1.094
+empty08_agents-10_unc-3_3.pi	soc.pi	29	1.375
+empty08_agents-10_unc-3_4.pi	soc.pi	31	3.438
+empty08_agents-10_unc-5_0.pi	soc.pi	34	1.953
+empty08_agents-10_unc-5_1.pi	soc.pi	32	1.375
+empty08_agents-10_unc-5_2.pi	soc.pi	33	2.875
+empty08_agents-10_unc-5_3.pi	soc.pi	38	7.89
+empty08_agents-10_unc-5_4.pi	soc.pi	32	1.953
+empty08_agents-12_unc-1_0.pi	soc.pi	17	1.437
+empty08_agents-12_unc-1_1.pi	soc.pi	19	1.594
+empty08_agents-12_unc-1_2.pi	soc.pi	15	0.531
+empty08_agents-12_unc-1_3.pi	soc.pi	16	0.61
+empty08_agents-12_unc-1_4.pi	soc.pi	18	1.344
+empty08_agents-12_unc-3_0.pi	soc.pi	28	3.156
+empty08_agents-12_unc-3_1.pi	soc.pi	27	2.109
+empty08_agents-12_unc-3_2.pi	soc.pi	29	4.016
+empty08_agents-12_unc-3_3.pi	soc.pi	32	3.797
+empty08_agents-12_unc-3_4.pi	soc.pi	31	4.469
+empty08_agents-12_unc-5_0.pi	soc.pi	38	5.828
+empty08_agents-12_unc-5_1.pi	soc.pi	33	2.265
+empty08_agents-12_unc-5_2.pi	soc.pi	38	7.281
+empty08_agents-12_unc-5_3.pi	soc.pi	42	21.094
+empty08_agents-12_unc-5_4.pi	soc.pi	32	2.407
+empty08_agents-14_unc-1_0.pi	soc.pi	18	2.313
+empty08_agents-14_unc-1_1.pi	soc.pi	20	2.688
+empty08_agents-14_unc-1_2.pi	soc.pi	15	0.765
+empty08_agents-14_unc-1_3.pi	soc.pi	21	3.719
+empty08_agents-14_unc-1_4.pi	soc.pi	21	3.407
+empty08_agents-14_unc-3_0.pi	soc.pi	28	4.015
+empty08_agents-14_unc-3_1.pi	soc.pi	32	7.266
+empty08_agents-14_unc-3_2.pi	soc.pi	31	7.375
+empty08_agents-14_unc-3_3.pi	soc.pi	33	5.859
+empty08_agents-14_unc-3_4.pi	soc.pi	31	5.328
+empty08_agents-14_unc-5_0.pi	soc.pi	38	6.812
+empty08_agents-14_unc-5_1.pi	soc.pi	33	2.61
+empty08_agents-14_unc-5_2.pi	soc.pi	42	16.813
+empty08_agents-14_unc-5_3.pi	soc.pi		
+empty08_agents-14_unc-5_4.pi	soc.pi	39	8.906
+empty08_agents-16_unc-1_0.pi	soc.pi	20	4.532
+empty08_agents-16_unc-1_1.pi	soc.pi	21	4.203
+empty08_agents-16_unc-1_2.pi	soc.pi	23	3.375
+empty08_agents-16_unc-1_3.pi	soc.pi	24	9.047
+empty08_agents-16_unc-1_4.pi	soc.pi	27	14.109
+empty08_agents-16_unc-3_0.pi	soc.pi	28	4.406
+empty08_agents-16_unc-3_1.pi	soc.pi	33	11.171
+empty08_agents-16_unc-3_2.pi	soc.pi	48	31.141
+empty08_agents-16_unc-3_3.pi	soc.pi	34	8.875
+empty08_agents-16_unc-3_4.pi	soc.pi	35	12.875
+empty08_agents-16_unc-5_0.pi	soc.pi	38	9.079
+empty08_agents-16_unc-5_1.pi	soc.pi	34	4.375
+empty08_agents-16_unc-5_2.pi	soc.pi		
+empty08_agents-16_unc-5_3.pi	soc.pi		
+empty08_agents-16_unc-5_4.pi	soc.pi	51	24.625
+empty08_agents-18_unc-1_0.pi	soc.pi	24	6.11
+empty08_agents-18_unc-1_1.pi	soc.pi	22	6.391
+empty08_agents-18_unc-1_2.pi	soc.pi	23	3.86
+empty08_agents-18_unc-1_3.pi	soc.pi	29	31.984
+empty08_agents-18_unc-1_4.pi	soc.pi	30	31.922
+empty08_agents-18_unc-3_0.pi	soc.pi	35	7.953
+empty08_agents-18_unc-3_1.pi	soc.pi	35	20.453
+empty08_agents-18_unc-3_2.pi	soc.pi	49	39.14
+empty08_agents-18_unc-3_3.pi	soc.pi	41	35.828
+empty08_agents-18_unc-3_4.pi	soc.pi	42	60.765
+empty08_agents-18_unc-5_0.pi	soc.pi	47	26.672
+empty08_agents-18_unc-5_1.pi	soc.pi	39	14.203
+empty08_agents-18_unc-5_2.pi	soc.pi		
+empty08_agents-18_unc-5_3.pi	soc.pi		
+empty08_agents-18_unc-5_4.pi	soc.pi		
+empty08_agents-20_unc-1_0.pi	soc.pi	25	8.968
+empty08_agents-20_unc-1_1.pi	soc.pi	25	18.094
+empty08_agents-20_unc-1_2.pi	soc.pi	24	5.391
+empty08_agents-20_unc-1_3.pi	soc.pi	31	70.39
+empty08_agents-20_unc-1_4.pi	soc.pi	30	34.578
+empty08_agents-20_unc-3_0.pi	soc.pi	38	14.875
+empty08_agents-20_unc-3_1.pi	soc.pi		
+empty08_agents-20_unc-3_2.pi	soc.pi	49	47.375
+empty08_agents-20_unc-3_3.pi	soc.pi		
+empty08_agents-20_unc-3_4.pi	soc.pi	44	95.093
+empty08_agents-20_unc-5_0.pi	soc.pi	52	66.375
+empty08_agents-20_unc-5_1.pi	soc.pi	41	21.172
+empty08_agents-20_unc-5_2.pi	soc.pi		
+empty08_agents-20_unc-5_3.pi	soc.pi		
+empty08_agents-20_unc-5_4.pi	soc.pi		
+empty08_agents-2_unc-1_0.pi	soc.pi	12	0.047
+empty08_agents-2_unc-1_1.pi	soc.pi	14	0.062
+empty08_agents-2_unc-1_2.pi	soc.pi	13	0.062
+empty08_agents-2_unc-1_3.pi	soc.pi	8	0.047
+empty08_agents-2_unc-1_4.pi	soc.pi	8	0.047
+empty08_agents-2_unc-3_0.pi	soc.pi	22	0.109
+empty08_agents-2_unc-3_1.pi	soc.pi	23	0.078
+empty08_agents-2_unc-3_2.pi	soc.pi	20	0.062
+empty08_agents-2_unc-3_3.pi	soc.pi	11	0.062
+empty08_agents-2_unc-3_4.pi	soc.pi	12	0.078
+empty08_agents-2_unc-5_0.pi	soc.pi	29	0.078
+empty08_agents-2_unc-5_1.pi	soc.pi	27	0.11
+empty08_agents-2_unc-5_2.pi	soc.pi	28	0.11
+empty08_agents-2_unc-5_3.pi	soc.pi	19	0.094
+empty08_agents-2_unc-5_4.pi	soc.pi	13	0.093
+empty08_agents-4_unc-1_0.pi	soc.pi	12	0.094
+empty08_agents-4_unc-1_1.pi	soc.pi	14	0.093
+empty08_agents-4_unc-1_2.pi	soc.pi	14	0.125
+empty08_agents-4_unc-1_3.pi	soc.pi	13	0.125
+empty08_agents-4_unc-1_4.pi	soc.pi	14	0.14
+empty08_agents-4_unc-3_0.pi	soc.pi	25	0.39
+empty08_agents-4_unc-3_1.pi	soc.pi	23	0.14
+empty08_agents-4_unc-3_2.pi	soc.pi	21	0.203
+empty08_agents-4_unc-3_3.pi	soc.pi	20	0.25
+empty08_agents-4_unc-3_4.pi	soc.pi	24	0.187
+empty08_agents-4_unc-5_0.pi	soc.pi	29	0.172
+empty08_agents-4_unc-5_1.pi	soc.pi	27	0.156
+empty08_agents-4_unc-5_2.pi	soc.pi	29	0.313
+empty08_agents-4_unc-5_3.pi	soc.pi	24	0.437
+empty08_agents-4_unc-5_4.pi	soc.pi	28	0.14
+empty08_agents-6_unc-1_0.pi	soc.pi	13	0.141
+empty08_agents-6_unc-1_1.pi	soc.pi	16	0.219
+empty08_agents-6_unc-1_2.pi	soc.pi	14	0.141
+empty08_agents-6_unc-1_3.pi	soc.pi	15	0.187
+empty08_agents-6_unc-1_4.pi	soc.pi	14	0.172
+empty08_agents-6_unc-3_0.pi	soc.pi	25	0.625
+empty08_agents-6_unc-3_1.pi	soc.pi	24	0.266
+empty08_agents-6_unc-3_2.pi	soc.pi	21	0.25
+empty08_agents-6_unc-3_3.pi	soc.pi	23	0.39
+empty08_agents-6_unc-3_4.pi	soc.pi	27	0.75
+empty08_agents-6_unc-5_0.pi	soc.pi	32	0.437
+empty08_agents-6_unc-5_1.pi	soc.pi	27	0.235
+empty08_agents-6_unc-5_2.pi	soc.pi	29	0.406
+empty08_agents-6_unc-5_3.pi	soc.pi	29	0.766
+empty08_agents-6_unc-5_4.pi	soc.pi	29	0.391
+empty08_agents-8_unc-1_0.pi	soc.pi	13	0.219
+empty08_agents-8_unc-1_1.pi	soc.pi	17	0.437
+empty08_agents-8_unc-1_2.pi	soc.pi	14	0.219
+empty08_agents-8_unc-1_3.pi	soc.pi	15	0.25
+empty08_agents-8_unc-1_4.pi	soc.pi	14	0.235
+empty08_agents-8_unc-3_0.pi	soc.pi	25	0.75
+empty08_agents-8_unc-3_1.pi	soc.pi	25	0.578
+empty08_agents-8_unc-3_2.pi	soc.pi	23	0.578
+empty08_agents-8_unc-3_3.pi	soc.pi	29	0.984
+empty08_agents-8_unc-3_4.pi	soc.pi	28	1.266
+empty08_agents-8_unc-5_0.pi	soc.pi	33	0.984
+empty08_agents-8_unc-5_1.pi	soc.pi	32	0.906
+empty08_agents-8_unc-5_2.pi	soc.pi	31	1.219
+empty08_agents-8_unc-5_3.pi	soc.pi	36	4.171
+empty08_agents-8_unc-5_4.pi	soc.pi	30	0.828
+empty16_agents-10_unc-1_0.pi	soc.pi	29	2.719
+empty16_agents-10_unc-1_1.pi	soc.pi	26	2.5
+empty16_agents-10_unc-1_2.pi	soc.pi	29	2.735
+empty16_agents-10_unc-1_3.pi	soc.pi	25	1.594
+empty16_agents-10_unc-1_4.pi	soc.pi	25	1.547
+empty16_agents-10_unc-3_0.pi	soc.pi	46	6.735
+empty16_agents-10_unc-3_1.pi	soc.pi	43	6.875
+empty16_agents-10_unc-3_2.pi	soc.pi	41	7.047
+empty16_agents-10_unc-3_3.pi	soc.pi	45	15.079
+empty16_agents-10_unc-3_4.pi	soc.pi	44	4.719
+empty16_agents-10_unc-5_0.pi	soc.pi	67	27.906
+empty16_agents-10_unc-5_1.pi	soc.pi	62	16.938
+empty16_agents-10_unc-5_2.pi	soc.pi	69	31.688
+empty16_agents-10_unc-5_3.pi	soc.pi	63	23.719
+empty16_agents-10_unc-5_4.pi	soc.pi	59	18.578
+empty16_agents-12_unc-1_0.pi	soc.pi	31	6.594
+empty16_agents-12_unc-1_1.pi	soc.pi	29	7.328
+empty16_agents-12_unc-1_2.pi	soc.pi	29	3.266
+empty16_agents-12_unc-1_3.pi	soc.pi	27	4.438
+empty16_agents-12_unc-1_4.pi	soc.pi	29	3.25
+empty16_agents-12_unc-3_0.pi	soc.pi	46	8.688
+empty16_agents-12_unc-3_1.pi	soc.pi	43	8.875
+empty16_agents-12_unc-3_2.pi	soc.pi	41	9.328
+empty16_agents-12_unc-3_3.pi	soc.pi	49	50.937
+empty16_agents-12_unc-3_4.pi	soc.pi	48	10.469
+empty16_agents-12_unc-5_0.pi	soc.pi	67	23.875
+empty16_agents-12_unc-5_1.pi	soc.pi	64	27.985
+empty16_agents-12_unc-5_2.pi	soc.pi	69	54.766
+empty16_agents-12_unc-5_3.pi	soc.pi	63	26.625
+empty16_agents-12_unc-5_4.pi	soc.pi	78	60.313
+empty16_agents-14_unc-1_0.pi	soc.pi	31	8.0
+empty16_agents-14_unc-1_1.pi	soc.pi	30	11.5
+empty16_agents-14_unc-1_2.pi	soc.pi	31	8.188
+empty16_agents-14_unc-1_3.pi	soc.pi	27	5.453
+empty16_agents-14_unc-1_4.pi	soc.pi	29	3.953
+empty16_agents-14_unc-3_0.pi	soc.pi	46	10.203
+empty16_agents-14_unc-3_1.pi	soc.pi	43	11.5
+empty16_agents-14_unc-3_2.pi	soc.pi	41	12.094
+empty16_agents-14_unc-3_3.pi	soc.pi	51	70.734
+empty16_agents-14_unc-3_4.pi	soc.pi	48	12.938
+empty16_agents-14_unc-5_0.pi	soc.pi	67	36.906
+empty16_agents-14_unc-5_1.pi	soc.pi	64	45.438
+empty16_agents-14_unc-5_2.pi	soc.pi		
+empty16_agents-14_unc-5_3.pi	soc.pi	63	43.297
+empty16_agents-14_unc-5_4.pi	soc.pi	78	67.234
+empty16_agents-16_unc-1_0.pi	soc.pi	32	12.125
+empty16_agents-16_unc-1_1.pi	soc.pi	30	14.25
+empty16_agents-16_unc-1_2.pi	soc.pi	31	9.844
+empty16_agents-16_unc-1_3.pi	soc.pi	28	8.953
+empty16_agents-16_unc-1_4.pi	soc.pi	29	4.672
+empty16_agents-16_unc-3_0.pi	soc.pi	47	20.563
+empty16_agents-16_unc-3_1.pi	soc.pi	43	14.391
+empty16_agents-16_unc-3_2.pi	soc.pi	41	14.719
+empty16_agents-16_unc-3_3.pi	soc.pi	51	81.109
+empty16_agents-16_unc-3_4.pi	soc.pi	49	22.125
+empty16_agents-16_unc-5_0.pi	soc.pi	67	54.375
+empty16_agents-16_unc-5_1.pi	soc.pi	64	50.75
+empty16_agents-16_unc-5_2.pi	soc.pi	71	96.985
+empty16_agents-16_unc-5_3.pi	soc.pi	63	39.953
+empty16_agents-16_unc-5_4.pi	soc.pi	78	96.547
+empty16_agents-18_unc-1_0.pi	soc.pi	33	18.219
+empty16_agents-18_unc-1_1.pi	soc.pi	30	17.047
+empty16_agents-18_unc-1_2.pi	soc.pi	33	20.657
+empty16_agents-18_unc-1_3.pi	soc.pi	31	21.515
+empty16_agents-18_unc-1_4.pi	soc.pi	32	14.297
+empty16_agents-18_unc-3_0.pi	soc.pi	50	38.922
+empty16_agents-18_unc-3_1.pi	soc.pi	43	14.906
+empty16_agents-18_unc-3_2.pi	soc.pi	42	27.781
+empty16_agents-18_unc-3_3.pi	soc.pi	52	95.953
+empty16_agents-18_unc-3_4.pi	soc.pi	49	23.203
+empty16_agents-18_unc-5_0.pi	soc.pi	70	98.234
+empty16_agents-18_unc-5_1.pi	soc.pi	64	70.297
+empty16_agents-18_unc-5_2.pi	soc.pi		
+empty16_agents-18_unc-5_3.pi	soc.pi		
+empty16_agents-18_unc-5_4.pi	soc.pi		
+empty16_agents-20_unc-1_0.pi	soc.pi	33	23.172
+empty16_agents-20_unc-1_1.pi	soc.pi	35	21.953
+empty16_agents-20_unc-1_2.pi	soc.pi	35	42.735
+empty16_agents-20_unc-1_3.pi	soc.pi	31	29.188
+empty16_agents-20_unc-1_4.pi	soc.pi	33	21.5
+empty16_agents-20_unc-3_0.pi	soc.pi	50	56.453
+empty16_agents-20_unc-3_1.pi	soc.pi	52	29.735
+empty16_agents-20_unc-3_2.pi	soc.pi	44	31.547
+empty16_agents-20_unc-3_3.pi	soc.pi		
+empty16_agents-20_unc-3_4.pi	soc.pi	50	40.594
+empty16_agents-20_unc-5_0.pi	soc.pi		
+empty16_agents-20_unc-5_1.pi	soc.pi		
+empty16_agents-20_unc-5_2.pi	soc.pi		
+empty16_agents-20_unc-5_3.pi	soc.pi		
+empty16_agents-20_unc-5_4.pi	soc.pi		
+empty16_agents-2_unc-1_0.pi	soc.pi	19	0.734
+empty16_agents-2_unc-1_1.pi	soc.pi	24	0.859
+empty16_agents-2_unc-1_2.pi	soc.pi	26	0.875
+empty16_agents-2_unc-1_3.pi	soc.pi	14	0.735
+empty16_agents-2_unc-1_4.pi	soc.pi	13	0.735
+empty16_agents-2_unc-3_0.pi	soc.pi	31	0.938
+empty16_agents-2_unc-3_1.pi	soc.pi	37	0.953
+empty16_agents-2_unc-3_2.pi	soc.pi	38	0.984
+empty16_agents-2_unc-3_3.pi	soc.pi	22	0.985
+empty16_agents-2_unc-3_4.pi	soc.pi	19	0.797
+empty16_agents-2_unc-5_0.pi	soc.pi	47	1.11
+empty16_agents-2_unc-5_1.pi	soc.pi	57	1.5
+empty16_agents-2_unc-5_2.pi	soc.pi	64	1.687
+empty16_agents-2_unc-5_3.pi	soc.pi	34	1.016
+empty16_agents-2_unc-5_4.pi	soc.pi	26	0.954
+empty16_agents-4_unc-1_0.pi	soc.pi	21	1.141
+empty16_agents-4_unc-1_1.pi	soc.pi	24	1.11
+empty16_agents-4_unc-1_2.pi	soc.pi	26	1.0
+empty16_agents-4_unc-1_3.pi	soc.pi	23	0.906
+empty16_agents-4_unc-1_4.pi	soc.pi	25	1.0
+empty16_agents-4_unc-3_0.pi	soc.pi	34	1.688
+empty16_agents-4_unc-3_1.pi	soc.pi	37	1.203
+empty16_agents-4_unc-3_2.pi	soc.pi	40	2.375
+empty16_agents-4_unc-3_3.pi	soc.pi	37	1.875
+empty16_agents-4_unc-3_4.pi	soc.pi	43	1.344
+empty16_agents-4_unc-5_0.pi	soc.pi	47	1.625
+empty16_agents-4_unc-5_1.pi	soc.pi	57	1.953
+empty16_agents-4_unc-5_2.pi	soc.pi	64	2.953
+empty16_agents-4_unc-5_3.pi	soc.pi	55	3.203
+empty16_agents-4_unc-5_4.pi	soc.pi	54	1.828
+empty16_agents-6_unc-1_0.pi	soc.pi	26	1.563
+empty16_agents-6_unc-1_1.pi	soc.pi	25	1.516
+empty16_agents-6_unc-1_2.pi	soc.pi	28	1.235
+empty16_agents-6_unc-1_3.pi	soc.pi	23	1.062
+empty16_agents-6_unc-1_4.pi	soc.pi	25	1.125
+empty16_agents-6_unc-3_0.pi	soc.pi	45	3.422
+empty16_agents-6_unc-3_1.pi	soc.pi	39	3.422
+empty16_agents-6_unc-3_2.pi	soc.pi	41	3.531
+empty16_agents-6_unc-3_3.pi	soc.pi	37	2.704
+empty16_agents-6_unc-3_4.pi	soc.pi	43	1.75
+empty16_agents-6_unc-5_0.pi	soc.pi	55	4.875
+empty16_agents-6_unc-5_1.pi	soc.pi	59	6.64
+empty16_agents-6_unc-5_2.pi	soc.pi	65	9.875
+empty16_agents-6_unc-5_3.pi	soc.pi	55	5.203
+empty16_agents-6_unc-5_4.pi	soc.pi	54	2.407
+empty16_agents-8_unc-1_0.pi	soc.pi	26	1.953
+empty16_agents-8_unc-1_1.pi	soc.pi	26	2.047
+empty16_agents-8_unc-1_2.pi	soc.pi	29	2.203
+empty16_agents-8_unc-1_3.pi	soc.pi	25	1.312
+empty16_agents-8_unc-1_4.pi	soc.pi	25	1.313
+empty16_agents-8_unc-3_0.pi	soc.pi	45	4.094
+empty16_agents-8_unc-3_1.pi	soc.pi	43	5.359
+empty16_agents-8_unc-3_2.pi	soc.pi	41	5.313
+empty16_agents-8_unc-3_3.pi	soc.pi	44	8.563
+empty16_agents-8_unc-3_4.pi	soc.pi	43	2.157
+empty16_agents-8_unc-5_0.pi	soc.pi	61	10.062
+empty16_agents-8_unc-5_1.pi	soc.pi	62	11.766
+empty16_agents-8_unc-5_2.pi	soc.pi	66	13.906
+empty16_agents-8_unc-5_3.pi	soc.pi	62	12.11
+empty16_agents-8_unc-5_4.pi	soc.pi	59	15.422
+empty24_agents-10_unc-1_0.pi	soc.pi	41	11.328
+empty24_agents-10_unc-1_1.pi	soc.pi	40	24.109
+empty24_agents-10_unc-1_2.pi	soc.pi	38	11.203
+empty24_agents-10_unc-1_3.pi	soc.pi	37	7.609
+empty24_agents-10_unc-1_4.pi	soc.pi	41	11.234
+empty24_agents-10_unc-3_0.pi	soc.pi	72	75.906
+empty24_agents-10_unc-3_1.pi	soc.pi		
+empty24_agents-10_unc-3_2.pi	soc.pi	63	77.766
+empty24_agents-10_unc-3_3.pi	soc.pi	64	79.813
+empty24_agents-10_unc-3_4.pi	soc.pi	73	38.828
+empty24_agents-10_unc-5_0.pi	soc.pi		
+empty24_agents-10_unc-5_1.pi	soc.pi		
+empty24_agents-10_unc-5_2.pi	soc.pi	88	45.766
+empty24_agents-10_unc-5_3.pi	soc.pi	90	94.828
+empty24_agents-10_unc-5_4.pi	soc.pi		
+empty24_agents-12_unc-1_0.pi	soc.pi	41	13.578
+empty24_agents-12_unc-1_1.pi	soc.pi	41	46.969
+empty24_agents-12_unc-1_2.pi	soc.pi	38	13.219
+empty24_agents-12_unc-1_3.pi	soc.pi	38	13.532
+empty24_agents-12_unc-1_4.pi	soc.pi	41	14.344
+empty24_agents-12_unc-3_0.pi	soc.pi	73	50.984
+empty24_agents-12_unc-3_1.pi	soc.pi		
+empty24_agents-12_unc-3_2.pi	soc.pi		
+empty24_agents-12_unc-3_3.pi	soc.pi	65	61.594
+empty24_agents-12_unc-3_4.pi	soc.pi	73	27.563
+empty24_agents-12_unc-5_0.pi	soc.pi		
+empty24_agents-12_unc-5_1.pi	soc.pi		
+empty24_agents-12_unc-5_2.pi	soc.pi	88	94.39
+empty24_agents-12_unc-5_3.pi	soc.pi		
+empty24_agents-12_unc-5_4.pi	soc.pi		
+empty24_agents-14_unc-1_0.pi	soc.pi	41	16.031
+empty24_agents-14_unc-1_1.pi	soc.pi	42	86.313
+empty24_agents-14_unc-1_2.pi	soc.pi	38	15.812
+empty24_agents-14_unc-1_3.pi	soc.pi	38	16.484
+empty24_agents-14_unc-1_4.pi	soc.pi	41	17.687
+empty24_agents-14_unc-3_0.pi	soc.pi	73	43.344
+empty24_agents-14_unc-3_1.pi	soc.pi		
+empty24_agents-14_unc-3_2.pi	soc.pi	63	53.172
+empty24_agents-14_unc-3_3.pi	soc.pi	65	46.516
+empty24_agents-14_unc-3_4.pi	soc.pi		
+empty24_agents-14_unc-5_0.pi	soc.pi		
+empty24_agents-14_unc-5_1.pi	soc.pi		
+empty24_agents-14_unc-5_2.pi	soc.pi	89	77.516
+empty24_agents-14_unc-5_3.pi	soc.pi	90	49.812
+empty24_agents-14_unc-5_4.pi	soc.pi		
+empty24_agents-16_unc-1_0.pi	soc.pi	41	19.75
+empty24_agents-16_unc-1_1.pi	soc.pi		
+empty24_agents-16_unc-1_2.pi	soc.pi	39	28.609
+empty24_agents-16_unc-1_3.pi	soc.pi	38	19.36
+empty24_agents-16_unc-1_4.pi	soc.pi	41	21.812
+empty24_agents-16_unc-3_0.pi	soc.pi	73	61.829
+empty24_agents-16_unc-3_1.pi	soc.pi		
+empty24_agents-16_unc-3_2.pi	soc.pi	63	87.234
+empty24_agents-16_unc-3_3.pi	soc.pi		
+empty24_agents-16_unc-3_4.pi	soc.pi	75	95.657
+empty24_agents-16_unc-5_0.pi	soc.pi		
+empty24_agents-16_unc-5_1.pi	soc.pi		
+empty24_agents-16_unc-5_2.pi	soc.pi		
+empty24_agents-16_unc-5_3.pi	soc.pi		
+empty24_agents-16_unc-5_4.pi	soc.pi		
+empty24_agents-18_unc-1_0.pi	soc.pi	41	23.204
+empty24_agents-18_unc-1_1.pi	soc.pi		
+empty24_agents-18_unc-1_2.pi	soc.pi	39	35.672
+empty24_agents-18_unc-1_3.pi	soc.pi	38	22.797
+empty24_agents-18_unc-1_4.pi	soc.pi	41	26.843
+empty24_agents-18_unc-3_0.pi	soc.pi		
+empty24_agents-18_unc-3_1.pi	soc.pi		
+empty24_agents-18_unc-3_2.pi	soc.pi		
+empty24_agents-18_unc-3_3.pi	soc.pi		
+empty24_agents-18_unc-3_4.pi	soc.pi		
+empty24_agents-18_unc-5_0.pi	soc.pi		
+empty24_agents-18_unc-5_1.pi	soc.pi		
+empty24_agents-18_unc-5_2.pi	soc.pi		
+empty24_agents-18_unc-5_3.pi	soc.pi		
+empty24_agents-18_unc-5_4.pi	soc.pi		
+empty24_agents-20_unc-1_0.pi	soc.pi	41	23.625
+empty24_agents-20_unc-1_1.pi	soc.pi		
+empty24_agents-20_unc-1_2.pi	soc.pi	40	55.813
+empty24_agents-20_unc-1_3.pi	soc.pi	39	43.859
+empty24_agents-20_unc-1_4.pi	soc.pi	41	23.328
+empty24_agents-20_unc-3_0.pi	soc.pi		
+empty24_agents-20_unc-3_1.pi	soc.pi		
+empty24_agents-20_unc-3_2.pi	soc.pi	63	71.813
+empty24_agents-20_unc-3_3.pi	soc.pi		
+empty24_agents-20_unc-3_4.pi	soc.pi		
+empty24_agents-20_unc-5_0.pi	soc.pi		
+empty24_agents-20_unc-5_1.pi	soc.pi		
+empty24_agents-20_unc-5_2.pi	soc.pi		
+empty24_agents-20_unc-5_3.pi	soc.pi		
+empty24_agents-20_unc-5_4.pi	soc.pi		
+empty24_agents-2_unc-1_0.pi	soc.pi	32	4.437
+empty24_agents-2_unc-1_1.pi	soc.pi	31	4.437
+empty24_agents-2_unc-1_2.pi	soc.pi	22	4.687
+empty24_agents-2_unc-1_3.pi	soc.pi	32	4.688
+empty24_agents-2_unc-1_4.pi	soc.pi	32	4.422
+empty24_agents-2_unc-3_0.pi	soc.pi	56	5.5
+empty24_agents-2_unc-3_1.pi	soc.pi	61	5.797
+empty24_agents-2_unc-3_2.pi	soc.pi	39	5.468
+empty24_agents-2_unc-3_3.pi	soc.pi	59	5.859
+empty24_agents-2_unc-3_4.pi	soc.pi	61	6.297
+empty24_agents-2_unc-5_0.pi	soc.pi	79	7.594
+empty24_agents-2_unc-5_1.pi	soc.pi	73	6.734
+empty24_agents-2_unc-5_2.pi	soc.pi	55	5.75
+empty24_agents-2_unc-5_3.pi	soc.pi	81	8.453
+empty24_agents-2_unc-5_4.pi	soc.pi	80	9.0
+empty24_agents-4_unc-1_0.pi	soc.pi	32	4.781
+empty24_agents-4_unc-1_1.pi	soc.pi	31	4.75
+empty24_agents-4_unc-1_2.pi	soc.pi	37	5.265
+empty24_agents-4_unc-1_3.pi	soc.pi	37	5.141
+empty24_agents-4_unc-1_4.pi	soc.pi	32	4.86
+empty24_agents-4_unc-3_0.pi	soc.pi	56	6.953
+empty24_agents-4_unc-3_1.pi	soc.pi	61	7.469
+empty24_agents-4_unc-3_2.pi	soc.pi	61	7.844
+empty24_agents-4_unc-3_3.pi	soc.pi	63	7.532
+empty24_agents-4_unc-3_4.pi	soc.pi	61	7.953
+empty24_agents-4_unc-5_0.pi	soc.pi	79	8.922
+empty24_agents-4_unc-5_1.pi	soc.pi	73	8.672
+empty24_agents-4_unc-5_2.pi	soc.pi	87	16.344
+empty24_agents-4_unc-5_3.pi	soc.pi	89	36.813
+empty24_agents-4_unc-5_4.pi	soc.pi	80	14.234
+empty24_agents-6_unc-1_0.pi	soc.pi	32	5.422
+empty24_agents-6_unc-1_1.pi	soc.pi	31	5.359
+empty24_agents-6_unc-1_2.pi	soc.pi	37	6.016
+empty24_agents-6_unc-1_3.pi	soc.pi	37	5.75
+empty24_agents-6_unc-1_4.pi	soc.pi	37	5.547
+empty24_agents-6_unc-3_0.pi	soc.pi	56	9.515
+empty24_agents-6_unc-3_1.pi	soc.pi	61	9.656
+empty24_agents-6_unc-3_2.pi	soc.pi	62	16.469
+empty24_agents-6_unc-3_3.pi	soc.pi	63	15.078
+empty24_agents-6_unc-3_4.pi	soc.pi	62	14.047
+empty24_agents-6_unc-5_0.pi	soc.pi	79	35.672
+empty24_agents-6_unc-5_1.pi	soc.pi	73	22.516
+empty24_agents-6_unc-5_2.pi	soc.pi	87	43.469
+empty24_agents-6_unc-5_3.pi	soc.pi	89	17.437
+empty24_agents-6_unc-5_4.pi	soc.pi	87	51.344
+empty24_agents-8_unc-1_0.pi	soc.pi	41	9.203
+empty24_agents-8_unc-1_1.pi	soc.pi	35	12.828
+empty24_agents-8_unc-1_2.pi	soc.pi	38	9.297
+empty24_agents-8_unc-1_3.pi	soc.pi	37	6.64
+empty24_agents-8_unc-1_4.pi	soc.pi	38	8.688
+empty24_agents-8_unc-3_0.pi	soc.pi	72	54.797
+empty24_agents-8_unc-3_1.pi	soc.pi	61	15.75
+empty24_agents-8_unc-3_2.pi	soc.pi	63	49.375
+empty24_agents-8_unc-3_3.pi	soc.pi	63	35.469
+empty24_agents-8_unc-3_4.pi	soc.pi	62	23.672
+empty24_agents-8_unc-5_0.pi	soc.pi	102	79.875
+empty24_agents-8_unc-5_1.pi	soc.pi		
+empty24_agents-8_unc-5_2.pi	soc.pi	88	44.547
+empty24_agents-8_unc-5_3.pi	soc.pi	89	33.234
+empty24_agents-8_unc-5_4.pi	soc.pi	88	22.968
+random08_agents-10_unc-1_0.pi	soc.pi	25	2.344
+random08_agents-10_unc-1_1.pi	soc.pi	17	0.437
+random08_agents-10_unc-1_2.pi	soc.pi	28	2.031
+random08_agents-10_unc-1_3.pi	soc.pi	22	0.672
+random08_agents-10_unc-1_4.pi	soc.pi	14	0.219
+random08_agents-10_unc-3_0.pi	soc.pi	44	10.344
+random08_agents-10_unc-3_1.pi	soc.pi	37	6.015
+random08_agents-10_unc-3_2.pi	soc.pi	43	2.406
+random08_agents-10_unc-3_3.pi	soc.pi	36	0.75
+random08_agents-10_unc-3_4.pi	soc.pi	26	0.578
+random08_agents-10_unc-5_0.pi	soc.pi	61	29.313
+random08_agents-10_unc-5_1.pi	soc.pi	44	4.625
+random08_agents-10_unc-5_2.pi	soc.pi	67	18.297
+random08_agents-10_unc-5_3.pi	soc.pi	62	9.516
+random08_agents-10_unc-5_4.pi	soc.pi	38	0.921
+random08_agents-12_unc-1_0.pi	soc.pi	25	2.765
+random08_agents-12_unc-1_1.pi	soc.pi	17	0.563
+random08_agents-12_unc-1_2.pi	soc.pi	35	7.953
+random08_agents-12_unc-1_3.pi	soc.pi	27	2.782
+random08_agents-12_unc-1_4.pi	soc.pi	14	0.25
+random08_agents-12_unc-3_0.pi	soc.pi	45	13.047
+random08_agents-12_unc-3_1.pi	soc.pi	40	10.921
+random08_agents-12_unc-3_2.pi	soc.pi	57	17.921
+random08_agents-12_unc-3_3.pi	soc.pi	39	2.266
+random08_agents-12_unc-3_4.pi	soc.pi	27	0.937
+random08_agents-12_unc-5_0.pi	soc.pi	62	40.125
+random08_agents-12_unc-5_1.pi	soc.pi	49	10.61
+random08_agents-12_unc-5_2.pi	soc.pi		
+random08_agents-12_unc-5_3.pi	soc.pi	70	33.531
+random08_agents-12_unc-5_4.pi	soc.pi	39	1.516
+random08_agents-14_unc-1_0.pi	soc.pi	33	13.0
+random08_agents-14_unc-1_1.pi	soc.pi	19	1.14
+random08_agents-14_unc-1_2.pi	soc.pi	43	25.859
+random08_agents-14_unc-1_3.pi	soc.pi	43	34.5
+random08_agents-14_unc-1_4.pi	soc.pi	15	0.421
+random08_agents-14_unc-3_0.pi	soc.pi		
+random08_agents-14_unc-3_1.pi	soc.pi	45	23.5
+random08_agents-14_unc-3_2.pi	soc.pi	68	85.265
+random08_agents-14_unc-3_3.pi	soc.pi	62	42.454
+random08_agents-14_unc-3_4.pi	soc.pi	33	4.172
+random08_agents-14_unc-5_0.pi	soc.pi		
+random08_agents-14_unc-5_1.pi	soc.pi	59	31.953
+random08_agents-14_unc-5_2.pi	soc.pi		
+random08_agents-14_unc-5_3.pi	soc.pi		
+random08_agents-14_unc-5_4.pi	soc.pi	39	1.812
+random08_agents-16_unc-1_0.pi	soc.pi	35	21.469
+random08_agents-16_unc-1_1.pi	soc.pi	43	35.828
+random08_agents-16_unc-1_2.pi	soc.pi	45	43.625
+random08_agents-16_unc-1_3.pi	soc.pi		
+random08_agents-16_unc-1_4.pi	soc.pi	26	5.016
+random08_agents-16_unc-3_0.pi	soc.pi		
+random08_agents-16_unc-3_1.pi	soc.pi		
+random08_agents-16_unc-3_2.pi	soc.pi		
+random08_agents-16_unc-3_3.pi	soc.pi		
+random08_agents-16_unc-3_4.pi	soc.pi	46	25.359
+random08_agents-16_unc-5_0.pi	soc.pi		
+random08_agents-16_unc-5_1.pi	soc.pi		
+random08_agents-16_unc-5_2.pi	soc.pi		
+random08_agents-16_unc-5_3.pi	soc.pi		
+random08_agents-16_unc-5_4.pi	soc.pi	61	30.156
+random08_agents-18_unc-1_0.pi	soc.pi		
+random08_agents-18_unc-1_1.pi	soc.pi		
+random08_agents-18_unc-1_2.pi	soc.pi		
+random08_agents-18_unc-1_3.pi	soc.pi		
+random08_agents-18_unc-1_4.pi	soc.pi	32	18.11
+random08_agents-18_unc-3_0.pi	soc.pi		
+random08_agents-18_unc-3_1.pi	soc.pi		
+random08_agents-18_unc-3_2.pi	soc.pi		
+random08_agents-18_unc-3_3.pi	soc.pi		
+random08_agents-18_unc-3_4.pi	soc.pi		
+random08_agents-18_unc-5_0.pi	soc.pi		
+random08_agents-18_unc-5_1.pi	soc.pi		
+random08_agents-18_unc-5_2.pi	soc.pi		
+random08_agents-18_unc-5_3.pi	soc.pi		
+random08_agents-18_unc-5_4.pi	soc.pi		
+random08_agents-20_unc-1_0.pi	soc.pi		
+random08_agents-20_unc-1_1.pi	soc.pi		
+random08_agents-20_unc-1_2.pi	soc.pi		
+random08_agents-20_unc-1_3.pi	soc.pi		
+random08_agents-20_unc-1_4.pi	soc.pi		
+random08_agents-20_unc-3_0.pi	soc.pi		
+random08_agents-20_unc-3_1.pi	soc.pi		
+random08_agents-20_unc-3_2.pi	soc.pi		
+random08_agents-20_unc-3_3.pi	soc.pi		
+random08_agents-20_unc-3_4.pi	soc.pi		
+random08_agents-20_unc-5_0.pi	soc.pi		
+random08_agents-20_unc-5_1.pi	soc.pi		
+random08_agents-20_unc-5_2.pi	soc.pi		
+random08_agents-20_unc-5_3.pi	soc.pi		
+random08_agents-20_unc-5_4.pi	soc.pi		
+random08_agents-2_unc-1_0.pi	soc.pi	15	0.062
+random08_agents-2_unc-1_1.pi	soc.pi	12	0.031
+random08_agents-2_unc-1_2.pi	soc.pi	5	0.031
+random08_agents-2_unc-1_3.pi	soc.pi	7	0.047
+random08_agents-2_unc-1_4.pi	soc.pi	11	0.015
+random08_agents-2_unc-3_0.pi	soc.pi	27	0.063
+random08_agents-2_unc-3_1.pi	soc.pi	20	0.093
+random08_agents-2_unc-3_2.pi	soc.pi	12	0.031
+random08_agents-2_unc-3_3.pi	soc.pi	11	0.031
+random08_agents-2_unc-3_4.pi	soc.pi	18	0.032
+random08_agents-2_unc-5_0.pi	soc.pi	34	0.156
+random08_agents-2_unc-5_1.pi	soc.pi	34	0.469
+random08_agents-2_unc-5_2.pi	soc.pi	18	0.047
+random08_agents-2_unc-5_3.pi	soc.pi	17	0.047
+random08_agents-2_unc-5_4.pi	soc.pi	20	0.062
+random08_agents-4_unc-1_0.pi	soc.pi	15	0.062
+random08_agents-4_unc-1_1.pi	soc.pi	12	0.031
+random08_agents-4_unc-1_2.pi	soc.pi	11	0.047
+random08_agents-4_unc-1_3.pi	soc.pi	20	0.14
+random08_agents-4_unc-1_4.pi	soc.pi	12	0.078
+random08_agents-4_unc-3_0.pi	soc.pi	27	0.109
+random08_agents-4_unc-3_1.pi	soc.pi	22	0.265
+random08_agents-4_unc-3_2.pi	soc.pi	13	0.062
+random08_agents-4_unc-3_3.pi	soc.pi	34	0.109
+random08_agents-4_unc-3_4.pi	soc.pi	18	0.063
+random08_agents-4_unc-5_0.pi	soc.pi	34	0.281
+random08_agents-4_unc-5_1.pi	soc.pi	34	0.875
+random08_agents-4_unc-5_2.pi	soc.pi	26	0.469
+random08_agents-4_unc-5_3.pi	soc.pi	49	0.563
+random08_agents-4_unc-5_4.pi	soc.pi	29	0.109
+random08_agents-6_unc-1_0.pi	soc.pi	16	0.172
+random08_agents-6_unc-1_1.pi	soc.pi	13	0.093
+random08_agents-6_unc-1_2.pi	soc.pi	14	0.11
+random08_agents-6_unc-1_3.pi	soc.pi	20	0.203
+random08_agents-6_unc-1_4.pi	soc.pi	13	0.11
+random08_agents-6_unc-3_0.pi	soc.pi	35	1.672
+random08_agents-6_unc-3_1.pi	soc.pi	27	1.0
+random08_agents-6_unc-3_2.pi	soc.pi	27	0.156
+random08_agents-6_unc-3_3.pi	soc.pi	34	0.141
+random08_agents-6_unc-3_4.pi	soc.pi	19	0.078
+random08_agents-6_unc-5_0.pi	soc.pi	41	1.953
+random08_agents-6_unc-5_1.pi	soc.pi	35	1.484
+random08_agents-6_unc-5_2.pi	soc.pi	41	1.407
+random08_agents-6_unc-5_3.pi	soc.pi	51	1.203
+random08_agents-6_unc-5_4.pi	soc.pi	29	0.156
+random08_agents-8_unc-1_0.pi	soc.pi	24	1.515
+random08_agents-8_unc-1_1.pi	soc.pi	16	0.219
+random08_agents-8_unc-1_2.pi	soc.pi	18	0.485
+random08_agents-8_unc-1_3.pi	soc.pi	21	0.406
+random08_agents-8_unc-1_4.pi	soc.pi	13	0.156
+random08_agents-8_unc-3_0.pi	soc.pi	44	8.141
+random08_agents-8_unc-3_1.pi	soc.pi	32	1.828
+random08_agents-8_unc-3_2.pi	soc.pi	31	0.812
+random08_agents-8_unc-3_3.pi	soc.pi	34	0.219
+random08_agents-8_unc-3_4.pi	soc.pi	21	0.344
+random08_agents-8_unc-5_0.pi	soc.pi	61	24.047
+random08_agents-8_unc-5_1.pi	soc.pi	42	2.64
+random08_agents-8_unc-5_2.pi	soc.pi	47	4.688
+random08_agents-8_unc-5_3.pi	soc.pi	59	4.922
+random08_agents-8_unc-5_4.pi	soc.pi	30	0.39
+random16_agents-10_unc-1_0.pi	soc.pi	28	4.109
+random16_agents-10_unc-1_1.pi	soc.pi	29	4.125
+random16_agents-10_unc-1_2.pi	soc.pi	28	3.266
+random16_agents-10_unc-1_3.pi	soc.pi	35	13.422
+random16_agents-10_unc-1_4.pi	soc.pi	24	2.906
+random16_agents-10_unc-3_0.pi	soc.pi	48	9.328
+random16_agents-10_unc-3_1.pi	soc.pi	44	6.469
+random16_agents-10_unc-3_2.pi	soc.pi	46	6.469
+random16_agents-10_unc-3_3.pi	soc.pi	62	40.688
+random16_agents-10_unc-3_4.pi	soc.pi	36	3.719
+random16_agents-10_unc-5_0.pi	soc.pi	68	16.594
+random16_agents-10_unc-5_1.pi	soc.pi	71	23.797
+random16_agents-10_unc-5_2.pi	soc.pi	65	13.125
+random16_agents-10_unc-5_3.pi	soc.pi	81	39.125
+random16_agents-10_unc-5_4.pi	soc.pi	60	21.609
+random16_agents-12_unc-1_0.pi	soc.pi	29	6.203
+random16_agents-12_unc-1_1.pi	soc.pi	32	9.485
+random16_agents-12_unc-1_2.pi	soc.pi	35	5.031
+random16_agents-12_unc-1_3.pi	soc.pi	35	16.015
+random16_agents-12_unc-1_4.pi	soc.pi	24	3.469
+random16_agents-12_unc-3_0.pi	soc.pi	48	11.687
+random16_agents-12_unc-3_1.pi	soc.pi	56	17.39
+random16_agents-12_unc-3_2.pi	soc.pi	52	9.547
+random16_agents-12_unc-3_3.pi	soc.pi		
+random16_agents-12_unc-3_4.pi	soc.pi	36	4.671
+random16_agents-12_unc-5_0.pi	soc.pi	70	30.828
+random16_agents-12_unc-5_1.pi	soc.pi	71	40.344
+random16_agents-12_unc-5_2.pi	soc.pi	87	23.781
+random16_agents-12_unc-5_3.pi	soc.pi	87	96.89
+random16_agents-12_unc-5_4.pi	soc.pi	60	31.813
+random16_agents-14_unc-1_0.pi	soc.pi	29	7.765
+random16_agents-14_unc-1_1.pi	soc.pi	33	14.344
+random16_agents-14_unc-1_2.pi	soc.pi	36	8.015
+random16_agents-14_unc-1_3.pi	soc.pi	38	28.454
+random16_agents-14_unc-1_4.pi	soc.pi	25	5.281
+random16_agents-14_unc-3_0.pi	soc.pi	52	32.922
+random16_agents-14_unc-3_1.pi	soc.pi	61	44.609
+random16_agents-14_unc-3_2.pi	soc.pi	54	19.672
+random16_agents-14_unc-3_3.pi	soc.pi		
+random16_agents-14_unc-3_4.pi	soc.pi	37	7.641
+random16_agents-14_unc-5_0.pi	soc.pi	70	39.985
+random16_agents-14_unc-5_1.pi	soc.pi	71	39.297
+random16_agents-14_unc-5_2.pi	soc.pi	90	53.672
+random16_agents-14_unc-5_3.pi	soc.pi		
+random16_agents-14_unc-5_4.pi	soc.pi	60	43.609
+random16_agents-16_unc-1_0.pi	soc.pi	32	16.75
+random16_agents-16_unc-1_1.pi	soc.pi	44	73.641
+random16_agents-16_unc-1_2.pi	soc.pi	36	9.844
+random16_agents-16_unc-1_3.pi	soc.pi	42	56.297
+random16_agents-16_unc-1_4.pi	soc.pi	28	8.766
+random16_agents-16_unc-3_0.pi	soc.pi	59	88.328
+random16_agents-16_unc-3_1.pi	soc.pi	65	82.109
+random16_agents-16_unc-3_2.pi	soc.pi	58	45.563
+random16_agents-16_unc-3_3.pi	soc.pi		
+random16_agents-16_unc-3_4.pi	soc.pi	47	18.485
+random16_agents-16_unc-5_0.pi	soc.pi	71	52.422
+random16_agents-16_unc-5_1.pi	soc.pi		
+random16_agents-16_unc-5_2.pi	soc.pi	91	78.812
+random16_agents-16_unc-5_3.pi	soc.pi		
+random16_agents-16_unc-5_4.pi	soc.pi	65	69.25
+random16_agents-18_unc-1_0.pi	soc.pi	33	22.313
+random16_agents-18_unc-1_1.pi	soc.pi		
+random16_agents-18_unc-1_2.pi	soc.pi	36	11.828
+random16_agents-18_unc-1_3.pi	soc.pi	43	79.906
+random16_agents-18_unc-1_4.pi	soc.pi	28	10.453
+random16_agents-18_unc-3_0.pi	soc.pi		
+random16_agents-18_unc-3_1.pi	soc.pi		
+random16_agents-18_unc-3_2.pi	soc.pi	59	73.0
+random16_agents-18_unc-3_3.pi	soc.pi		
+random16_agents-18_unc-3_4.pi	soc.pi	48	23.828
+random16_agents-18_unc-5_0.pi	soc.pi	71	65.312
+random16_agents-18_unc-5_1.pi	soc.pi		
+random16_agents-18_unc-5_2.pi	soc.pi		
+random16_agents-18_unc-5_3.pi	soc.pi		
+random16_agents-18_unc-5_4.pi	soc.pi	74	97.047
+random16_agents-20_unc-1_0.pi	soc.pi	36	38.782
+random16_agents-20_unc-1_1.pi	soc.pi		
+random16_agents-20_unc-1_2.pi	soc.pi	37	17.328
+random16_agents-20_unc-1_3.pi	soc.pi		
+random16_agents-20_unc-1_4.pi	soc.pi	28	12.219
+random16_agents-20_unc-3_0.pi	soc.pi		
+random16_agents-20_unc-3_1.pi	soc.pi		
+random16_agents-20_unc-3_2.pi	soc.pi		
+random16_agents-20_unc-3_3.pi	soc.pi		
+random16_agents-20_unc-3_4.pi	soc.pi	48	32.297
+random16_agents-20_unc-5_0.pi	soc.pi		
+random16_agents-20_unc-5_1.pi	soc.pi		
+random16_agents-20_unc-5_2.pi	soc.pi		
+random16_agents-20_unc-5_3.pi	soc.pi		
+random16_agents-20_unc-5_4.pi	soc.pi		
+random16_agents-2_unc-1_0.pi	soc.pi	23	0.562
+random16_agents-2_unc-1_1.pi	soc.pi	24	0.531
+random16_agents-2_unc-1_2.pi	soc.pi	25	0.594
+random16_agents-2_unc-1_3.pi	soc.pi	13	0.594
+random16_agents-2_unc-1_4.pi	soc.pi	21	0.562
+random16_agents-2_unc-3_0.pi	soc.pi	36	0.656
+random16_agents-2_unc-3_1.pi	soc.pi	41	0.656
+random16_agents-2_unc-3_2.pi	soc.pi	41	0.703
+random16_agents-2_unc-3_3.pi	soc.pi	22	0.641
+random16_agents-2_unc-3_4.pi	soc.pi	35	0.829
+random16_agents-2_unc-5_0.pi	soc.pi	45	0.672
+random16_agents-2_unc-5_1.pi	soc.pi	66	0.985
+random16_agents-2_unc-5_2.pi	soc.pi	62	0.906
+random16_agents-2_unc-5_3.pi	soc.pi	41	0.719
+random16_agents-2_unc-5_4.pi	soc.pi	52	0.859
+random16_agents-4_unc-1_0.pi	soc.pi	23	0.61
+random16_agents-4_unc-1_1.pi	soc.pi	24	0.641
+random16_agents-4_unc-1_2.pi	soc.pi	25	0.672
+random16_agents-4_unc-1_3.pi	soc.pi	23	0.672
+random16_agents-4_unc-1_4.pi	soc.pi	21	0.672
+random16_agents-4_unc-3_0.pi	soc.pi	36	0.781
+random16_agents-4_unc-3_1.pi	soc.pi	41	0.969
+random16_agents-4_unc-3_2.pi	soc.pi	41	0.891
+random16_agents-4_unc-3_3.pi	soc.pi	40	0.938
+random16_agents-4_unc-3_4.pi	soc.pi	35	1.156
+random16_agents-4_unc-5_0.pi	soc.pi	45	0.922
+random16_agents-4_unc-5_1.pi	soc.pi	66	1.422
+random16_agents-4_unc-5_2.pi	soc.pi	64	3.234
+random16_agents-4_unc-5_3.pi	soc.pi	49	1.844
+random16_agents-4_unc-5_4.pi	soc.pi	52	1.187
+random16_agents-6_unc-1_0.pi	soc.pi	23	0.765
+random16_agents-6_unc-1_1.pi	soc.pi	26	1.407
+random16_agents-6_unc-1_2.pi	soc.pi	27	1.5
+random16_agents-6_unc-1_3.pi	soc.pi	25	1.172
+random16_agents-6_unc-1_4.pi	soc.pi	21	0.735
+random16_agents-6_unc-3_0.pi	soc.pi	36	1.062
+random16_agents-6_unc-3_1.pi	soc.pi	42	1.907
+random16_agents-6_unc-3_2.pi	soc.pi	45	2.704
+random16_agents-6_unc-3_3.pi	soc.pi	48	5.719
+random16_agents-6_unc-3_4.pi	soc.pi	35	1.5
+random16_agents-6_unc-5_0.pi	soc.pi	53	2.515
+random16_agents-6_unc-5_1.pi	soc.pi	66	2.016
+random16_agents-6_unc-5_2.pi	soc.pi	65	6.422
+random16_agents-6_unc-5_3.pi	soc.pi	62	3.437
+random16_agents-6_unc-5_4.pi	soc.pi	54	3.562
+random16_agents-8_unc-1_0.pi	soc.pi	25	1.39
+random16_agents-8_unc-1_1.pi	soc.pi	28	2.407
+random16_agents-8_unc-1_2.pi	soc.pi	28	2.515
+random16_agents-8_unc-1_3.pi	soc.pi	32	6.281
+random16_agents-8_unc-1_4.pi	soc.pi	22	1.187
+random16_agents-8_unc-3_0.pi	soc.pi	48	6.891
+random16_agents-8_unc-3_1.pi	soc.pi	44	4.594
+random16_agents-8_unc-3_2.pi	soc.pi	46	4.875
+random16_agents-8_unc-3_3.pi	soc.pi	60	25.704
+random16_agents-8_unc-3_4.pi	soc.pi	35	2.016
+random16_agents-8_unc-5_0.pi	soc.pi	68	11.61
+random16_agents-8_unc-5_1.pi	soc.pi	71	18.36
+random16_agents-8_unc-5_2.pi	soc.pi	65	8.125
+random16_agents-8_unc-5_3.pi	soc.pi	81	30.281
+random16_agents-8_unc-5_4.pi	soc.pi	54	5.172
+random24_agents-10_unc-1_0.pi	soc.pi	40	9.782
+random24_agents-10_unc-1_1.pi	soc.pi	49	5.625
+random24_agents-10_unc-1_2.pi	soc.pi	42	7.969
+random24_agents-10_unc-1_3.pi	soc.pi	46	21.64
+random24_agents-10_unc-1_4.pi	soc.pi	43	12.985
+random24_agents-10_unc-3_0.pi	soc.pi	70	53.25
+random24_agents-10_unc-3_1.pi	soc.pi	86	43.36
+random24_agents-10_unc-3_2.pi	soc.pi	76	10.328
+random24_agents-10_unc-3_3.pi	soc.pi	83	96.547
+random24_agents-10_unc-3_4.pi	soc.pi	76	22.828
+random24_agents-10_unc-5_0.pi	soc.pi		
+random24_agents-10_unc-5_1.pi	soc.pi	130	78.766
+random24_agents-10_unc-5_2.pi	soc.pi	112	32.218
+random24_agents-10_unc-5_3.pi	soc.pi		
+random24_agents-10_unc-5_4.pi	soc.pi	107	95.453
+random24_agents-12_unc-1_0.pi	soc.pi	40	11.812
+random24_agents-12_unc-1_1.pi	soc.pi	51	14.672
+random24_agents-12_unc-1_2.pi	soc.pi	43	13.719
+random24_agents-12_unc-1_3.pi	soc.pi	48	43.422
+random24_agents-12_unc-1_4.pi	soc.pi	43	16.594
+random24_agents-12_unc-3_0.pi	soc.pi	70	84.75
+random24_agents-12_unc-3_1.pi	soc.pi		
+random24_agents-12_unc-3_2.pi	soc.pi	76	33.625
+random24_agents-12_unc-3_3.pi	soc.pi		
+random24_agents-12_unc-3_4.pi	soc.pi	76	36.719
+random24_agents-12_unc-5_0.pi	soc.pi		
+random24_agents-12_unc-5_1.pi	soc.pi		
+random24_agents-12_unc-5_2.pi	soc.pi	113	76.281
+random24_agents-12_unc-5_3.pi	soc.pi		
+random24_agents-12_unc-5_4.pi	soc.pi		
+random24_agents-14_unc-1_0.pi	soc.pi	45	30.985
+random24_agents-14_unc-1_1.pi	soc.pi	51	17.953
+random24_agents-14_unc-1_2.pi	soc.pi	43	16.047
+random24_agents-14_unc-1_3.pi	soc.pi	49	67.063
+random24_agents-14_unc-1_4.pi	soc.pi	49	42.985
+random24_agents-14_unc-3_0.pi	soc.pi		
+random24_agents-14_unc-3_1.pi	soc.pi	90	91.844
+random24_agents-14_unc-3_2.pi	soc.pi	76	50.578
+random24_agents-14_unc-3_3.pi	soc.pi		
+random24_agents-14_unc-3_4.pi	soc.pi	78	40.14
+random24_agents-14_unc-5_0.pi	soc.pi		
+random24_agents-14_unc-5_1.pi	soc.pi		
+random24_agents-14_unc-5_2.pi	soc.pi		
+random24_agents-14_unc-5_3.pi	soc.pi		
+random24_agents-14_unc-5_4.pi	soc.pi		
+random24_agents-16_unc-1_0.pi	soc.pi	45	38.719
+random24_agents-16_unc-1_1.pi	soc.pi	51	21.625
+random24_agents-16_unc-1_2.pi	soc.pi	49	30.484
+random24_agents-16_unc-1_3.pi	soc.pi	50	73.734
+random24_agents-16_unc-1_4.pi	soc.pi		
+random24_agents-16_unc-3_0.pi	soc.pi		
+random24_agents-16_unc-3_1.pi	soc.pi		
+random24_agents-16_unc-3_2.pi	soc.pi	83	61.719
+random24_agents-16_unc-3_3.pi	soc.pi		
+random24_agents-16_unc-3_4.pi	soc.pi	81	91.953
+random24_agents-16_unc-5_0.pi	soc.pi		
+random24_agents-16_unc-5_1.pi	soc.pi		
+random24_agents-16_unc-5_2.pi	soc.pi		
+random24_agents-16_unc-5_3.pi	soc.pi		
+random24_agents-16_unc-5_4.pi	soc.pi		
+random24_agents-18_unc-1_0.pi	soc.pi	45	48.938
+random24_agents-18_unc-1_1.pi	soc.pi	51	26.906
+random24_agents-18_unc-1_2.pi	soc.pi	49	34.266
+random24_agents-18_unc-1_3.pi	soc.pi		
+random24_agents-18_unc-1_4.pi	soc.pi		
+random24_agents-18_unc-3_0.pi	soc.pi		
+random24_agents-18_unc-3_1.pi	soc.pi		
+random24_agents-18_unc-3_2.pi	soc.pi		
+random24_agents-18_unc-3_3.pi	soc.pi		
+random24_agents-18_unc-3_4.pi	soc.pi		
+random24_agents-18_unc-5_0.pi	soc.pi		
+random24_agents-18_unc-5_1.pi	soc.pi		
+random24_agents-18_unc-5_2.pi	soc.pi		
+random24_agents-18_unc-5_3.pi	soc.pi		
+random24_agents-18_unc-5_4.pi	soc.pi		
+random24_agents-20_unc-1_0.pi	soc.pi		
+random24_agents-20_unc-1_1.pi	soc.pi	53	50.016
+random24_agents-20_unc-1_2.pi	soc.pi	51	61.484
+random24_agents-20_unc-1_3.pi	soc.pi		
+random24_agents-20_unc-1_4.pi	soc.pi		
+random24_agents-20_unc-3_0.pi	soc.pi		
+random24_agents-20_unc-3_1.pi	soc.pi		
+random24_agents-20_unc-3_2.pi	soc.pi		
+random24_agents-20_unc-3_3.pi	soc.pi		
+random24_agents-20_unc-3_4.pi	soc.pi		
+random24_agents-20_unc-5_0.pi	soc.pi		
+random24_agents-20_unc-5_1.pi	soc.pi		
+random24_agents-20_unc-5_2.pi	soc.pi		
+random24_agents-20_unc-5_3.pi	soc.pi		
+random24_agents-20_unc-5_4.pi	soc.pi		
+random24_agents-2_unc-1_0.pi	soc.pi	27	3.297
+random24_agents-2_unc-1_1.pi	soc.pi	37	3.25
+random24_agents-2_unc-1_2.pi	soc.pi	15	3.25
+random24_agents-2_unc-1_3.pi	soc.pi	38	3.454
+random24_agents-2_unc-1_4.pi	soc.pi	40	3.297
+random24_agents-2_unc-3_0.pi	soc.pi	44	3.391
+random24_agents-2_unc-3_1.pi	soc.pi	64	3.391
+random24_agents-2_unc-3_2.pi	soc.pi	26	3.328
+random24_agents-2_unc-3_3.pi	soc.pi	64	3.797
+random24_agents-2_unc-3_4.pi	soc.pi	74	3.704
+random24_agents-2_unc-5_0.pi	soc.pi	60	4.0
+random24_agents-2_unc-5_1.pi	soc.pi	86	4.75
+random24_agents-2_unc-5_2.pi	soc.pi	37	3.844
+random24_agents-2_unc-5_3.pi	soc.pi	87	4.828
+random24_agents-2_unc-5_4.pi	soc.pi	95	5.406
+random24_agents-4_unc-1_0.pi	soc.pi	31	3.609
+random24_agents-4_unc-1_1.pi	soc.pi	37	3.5
+random24_agents-4_unc-1_2.pi	soc.pi	33	3.687
+random24_agents-4_unc-1_3.pi	soc.pi	38	3.781
+random24_agents-4_unc-1_4.pi	soc.pi	40	3.735
+random24_agents-4_unc-3_0.pi	soc.pi	54	4.25
+random24_agents-4_unc-3_1.pi	soc.pi	64	4.375
+random24_agents-4_unc-3_2.pi	soc.pi	60	4.531
+random24_agents-4_unc-3_3.pi	soc.pi	64	4.641
+random24_agents-4_unc-3_4.pi	soc.pi	75	7.015
+random24_agents-4_unc-5_0.pi	soc.pi	80	6.578
+random24_agents-4_unc-5_1.pi	soc.pi	86	8.969
+random24_agents-4_unc-5_2.pi	soc.pi	83	6.797
+random24_agents-4_unc-5_3.pi	soc.pi	87	6.375
+random24_agents-4_unc-5_4.pi	soc.pi	95	8.985
+random24_agents-6_unc-1_0.pi	soc.pi	38	4.235
+random24_agents-6_unc-1_1.pi	soc.pi	37	3.906
+random24_agents-6_unc-1_2.pi	soc.pi	41	4.344
+random24_agents-6_unc-1_3.pi	soc.pi	40	4.203
+random24_agents-6_unc-1_4.pi	soc.pi	40	4.094
+random24_agents-6_unc-3_0.pi	soc.pi	63	5.859
+random24_agents-6_unc-3_1.pi	soc.pi	64	5.516
+random24_agents-6_unc-3_2.pi	soc.pi	76	8.657
+random24_agents-6_unc-3_3.pi	soc.pi	73	7.438
+random24_agents-6_unc-3_4.pi	soc.pi	75	10.657
+random24_agents-6_unc-5_0.pi	soc.pi	97	31.359
+random24_agents-6_unc-5_1.pi	soc.pi	86	14.109
+random24_agents-6_unc-5_2.pi	soc.pi	112	60.109
+random24_agents-6_unc-5_3.pi	soc.pi	105	10.766
+random24_agents-6_unc-5_4.pi	soc.pi	95	19.094
+random24_agents-8_unc-1_0.pi	soc.pi	40	7.953
+random24_agents-8_unc-1_1.pi	soc.pi	37	4.391
+random24_agents-8_unc-1_2.pi	soc.pi	41	4.828
+random24_agents-8_unc-1_3.pi	soc.pi	46	18.828
+random24_agents-8_unc-1_4.pi	soc.pi	40	4.532
+random24_agents-8_unc-3_0.pi	soc.pi	70	47.766
+random24_agents-8_unc-3_1.pi	soc.pi	64	6.75
+random24_agents-8_unc-3_2.pi	soc.pi	76	11.859
+random24_agents-8_unc-3_3.pi	soc.pi		
+random24_agents-8_unc-3_4.pi	soc.pi	75	14.266
+random24_agents-8_unc-5_0.pi	soc.pi		
+random24_agents-8_unc-5_1.pi	soc.pi	88	47.25
+random24_agents-8_unc-5_2.pi	soc.pi	112	56.688
+random24_agents-8_unc-5_3.pi	soc.pi		
+random24_agents-8_unc-5_4.pi	soc.pi	96	21.375
+empty08_agents-10_unc-1_0.pi	mks.pi	13	0.265
+empty08_agents-10_unc-1_1.pi	mks.pi	14	0.235
+empty08_agents-10_unc-1_2.pi	mks.pi	13	0.188
+empty08_agents-10_unc-1_3.pi	mks.pi	14	0.219
+empty08_agents-10_unc-1_4.pi	mks.pi	13	0.219
+empty08_agents-10_unc-3_0.pi	mks.pi	22	0.422
+empty08_agents-10_unc-3_1.pi	mks.pi	23	0.469
+empty08_agents-10_unc-3_2.pi	mks.pi	22	0.734
+empty08_agents-10_unc-3_3.pi	mks.pi	26	0.75
+empty08_agents-10_unc-3_4.pi	mks.pi	23	0.531
+empty08_agents-10_unc-5_0.pi	mks.pi	32	1.406
+empty08_agents-10_unc-5_1.pi	mks.pi	30	0.75
+empty08_agents-10_unc-5_2.pi	mks.pi	28	0.594
+empty08_agents-10_unc-5_3.pi	mks.pi	28	1.515
+empty08_agents-10_unc-5_4.pi	mks.pi	28	0.657
+empty08_agents-12_unc-1_0.pi	mks.pi	13	0.391
+empty08_agents-12_unc-1_1.pi	mks.pi	14	0.297
+empty08_agents-12_unc-1_2.pi	mks.pi	13	0.234
+empty08_agents-12_unc-1_3.pi	mks.pi	14	0.25
+empty08_agents-12_unc-1_4.pi	mks.pi	13	0.25
+empty08_agents-12_unc-3_0.pi	mks.pi	22	0.515
+empty08_agents-12_unc-3_1.pi	mks.pi	23	0.656
+empty08_agents-12_unc-3_2.pi	mks.pi	22	0.938
+empty08_agents-12_unc-3_3.pi	mks.pi	26	0.891
+empty08_agents-12_unc-3_4.pi	mks.pi	23	0.64
+empty08_agents-12_unc-5_0.pi	mks.pi	32	2.187
+empty08_agents-12_unc-5_1.pi	mks.pi	30	1.172
+empty08_agents-12_unc-5_2.pi	mks.pi	28	0.875
+empty08_agents-12_unc-5_3.pi	mks.pi	28	1.89
+empty08_agents-12_unc-5_4.pi	mks.pi	28	0.859
+empty08_agents-14_unc-1_0.pi	mks.pi	13	0.468
+empty08_agents-14_unc-1_1.pi	mks.pi	14	0.359
+empty08_agents-14_unc-1_2.pi	mks.pi	13	0.281
+empty08_agents-14_unc-1_3.pi	mks.pi	14	0.359
+empty08_agents-14_unc-1_4.pi	mks.pi	13	0.312
+empty08_agents-14_unc-3_0.pi	mks.pi	22	0.656
+empty08_agents-14_unc-3_1.pi	mks.pi	23	0.734
+empty08_agents-14_unc-3_2.pi	mks.pi	22	1.156
+empty08_agents-14_unc-3_3.pi	mks.pi	26	1.0
+empty08_agents-14_unc-3_4.pi	mks.pi	23	0.844
+empty08_agents-14_unc-5_0.pi	mks.pi	32	2.625
+empty08_agents-14_unc-5_1.pi	mks.pi	30	1.468
+empty08_agents-14_unc-5_2.pi	mks.pi	28	1.031
+empty08_agents-14_unc-5_3.pi	mks.pi	28	2.406
+empty08_agents-14_unc-5_4.pi	mks.pi	28	1.156
+empty08_agents-16_unc-1_0.pi	mks.pi	13	0.578
+empty08_agents-16_unc-1_1.pi	mks.pi	14	0.406
+empty08_agents-16_unc-1_2.pi	mks.pi	17	0.687
+empty08_agents-16_unc-1_3.pi	mks.pi	14	0.375
+empty08_agents-16_unc-1_4.pi	mks.pi	14	0.735
+empty08_agents-16_unc-3_0.pi	mks.pi	22	0.797
+empty08_agents-16_unc-3_1.pi	mks.pi	23	0.922
+empty08_agents-16_unc-3_2.pi	mks.pi	30	2.891
+empty08_agents-16_unc-3_3.pi	mks.pi	26	1.578
+empty08_agents-16_unc-3_4.pi	mks.pi	24	1.844
+empty08_agents-16_unc-5_0.pi	mks.pi	33	3.938
+empty08_agents-16_unc-5_1.pi	mks.pi	30	1.687
+empty08_agents-16_unc-5_2.pi	mks.pi	38	9.187
+empty08_agents-16_unc-5_3.pi	mks.pi	28	2.188
+empty08_agents-16_unc-5_4.pi	mks.pi	35	2.359
+empty08_agents-18_unc-1_0.pi	mks.pi	16	0.656
+empty08_agents-18_unc-1_1.pi	mks.pi	14	0.516
+empty08_agents-18_unc-1_2.pi	mks.pi	17	0.765
+empty08_agents-18_unc-1_3.pi	mks.pi	14	0.5
+empty08_agents-18_unc-1_4.pi	mks.pi	14	0.844
+empty08_agents-18_unc-3_0.pi	mks.pi	28	2.703
+empty08_agents-18_unc-3_1.pi	mks.pi	23	1.094
+empty08_agents-18_unc-3_2.pi	mks.pi	30	3.5
+empty08_agents-18_unc-3_3.pi	mks.pi	26	1.844
+empty08_agents-18_unc-3_4.pi	mks.pi	24	2.391
+empty08_agents-18_unc-5_0.pi	mks.pi	35	3.954
+empty08_agents-18_unc-5_1.pi	mks.pi	30	2.11
+empty08_agents-18_unc-5_2.pi	mks.pi	38	8.875
+empty08_agents-18_unc-5_3.pi	mks.pi	29	3.891
+empty08_agents-18_unc-5_4.pi	mks.pi	35	3.015
+empty08_agents-20_unc-1_0.pi	mks.pi	16	0.735
+empty08_agents-20_unc-1_1.pi	mks.pi	14	0.5
+empty08_agents-20_unc-1_2.pi	mks.pi	17	0.844
+empty08_agents-20_unc-1_3.pi	mks.pi	14	0.547
+empty08_agents-20_unc-1_4.pi	mks.pi	14	0.969
+empty08_agents-20_unc-3_0.pi	mks.pi	28	3.344
+empty08_agents-20_unc-3_1.pi	mks.pi	23	1.282
+empty08_agents-20_unc-3_2.pi	mks.pi	30	2.5
+empty08_agents-20_unc-3_3.pi	mks.pi	28	6.875
+empty08_agents-20_unc-3_4.pi	mks.pi	24	2.734
+empty08_agents-20_unc-5_0.pi	mks.pi	35	2.828
+empty08_agents-20_unc-5_1.pi	mks.pi	30	1.922
+empty08_agents-20_unc-5_2.pi	mks.pi	38	10.859
+empty08_agents-20_unc-5_3.pi	mks.pi	31	1.985
+empty08_agents-20_unc-5_4.pi	mks.pi	35	3.546
+empty08_agents-2_unc-1_0.pi	mks.pi	12	0.046
+empty08_agents-2_unc-1_1.pi	mks.pi	14	0.078
+empty08_agents-2_unc-1_2.pi	mks.pi	13	0.078
+empty08_agents-2_unc-1_3.pi	mks.pi	8	0.063
+empty08_agents-2_unc-1_4.pi	mks.pi	8	0.047
+empty08_agents-2_unc-3_0.pi	mks.pi	22	0.109
+empty08_agents-2_unc-3_1.pi	mks.pi	23	0.109
+empty08_agents-2_unc-3_2.pi	mks.pi	20	0.093
+empty08_agents-2_unc-3_3.pi	mks.pi	11	0.078
+empty08_agents-2_unc-3_4.pi	mks.pi	12	0.078
+empty08_agents-2_unc-5_0.pi	mks.pi	29	0.14
+empty08_agents-2_unc-5_1.pi	mks.pi	27	0.11
+empty08_agents-2_unc-5_2.pi	mks.pi	28	0.14
+empty08_agents-2_unc-5_3.pi	mks.pi	19	0.078
+empty08_agents-2_unc-5_4.pi	mks.pi	13	0.078
+empty08_agents-4_unc-1_0.pi	mks.pi	12	0.078
+empty08_agents-4_unc-1_1.pi	mks.pi	14	0.125
+empty08_agents-4_unc-1_2.pi	mks.pi	13	0.062
+empty08_agents-4_unc-1_3.pi	mks.pi	12	0.094
+empty08_agents-4_unc-1_4.pi	mks.pi	13	0.093
+empty08_agents-4_unc-3_0.pi	mks.pi	22	0.14
+empty08_agents-4_unc-3_1.pi	mks.pi	23	0.203
+empty08_agents-4_unc-3_2.pi	mks.pi	20	0.156
+empty08_agents-4_unc-3_3.pi	mks.pi	19	0.235
+empty08_agents-4_unc-3_4.pi	mks.pi	23	0.187
+empty08_agents-4_unc-5_0.pi	mks.pi	29	0.25
+empty08_agents-4_unc-5_1.pi	mks.pi	27	0.188
+empty08_agents-4_unc-5_2.pi	mks.pi	28	0.281
+empty08_agents-4_unc-5_3.pi	mks.pi	24	0.484
+empty08_agents-4_unc-5_4.pi	mks.pi	28	0.25
+empty08_agents-6_unc-1_0.pi	mks.pi	12	0.11
+empty08_agents-6_unc-1_1.pi	mks.pi	14	0.156
+empty08_agents-6_unc-1_2.pi	mks.pi	13	0.109
+empty08_agents-6_unc-1_3.pi	mks.pi	14	0.14
+empty08_agents-6_unc-1_4.pi	mks.pi	13	0.094
+empty08_agents-6_unc-3_0.pi	mks.pi	22	0.235
+empty08_agents-6_unc-3_1.pi	mks.pi	23	0.312
+empty08_agents-6_unc-3_2.pi	mks.pi	20	0.203
+empty08_agents-6_unc-3_3.pi	mks.pi	21	0.25
+empty08_agents-6_unc-3_4.pi	mks.pi	23	0.297
+empty08_agents-6_unc-5_0.pi	mks.pi	32	0.859
+empty08_agents-6_unc-5_1.pi	mks.pi	27	0.39
+empty08_agents-6_unc-5_2.pi	mks.pi	28	0.343
+empty08_agents-6_unc-5_3.pi	mks.pi	26	0.313
+empty08_agents-6_unc-5_4.pi	mks.pi	28	0.375
+empty08_agents-8_unc-1_0.pi	mks.pi	12	0.141
+empty08_agents-8_unc-1_1.pi	mks.pi	14	0.218
+empty08_agents-8_unc-1_2.pi	mks.pi	13	0.094
+empty08_agents-8_unc-1_3.pi	mks.pi	14	0.187
+empty08_agents-8_unc-1_4.pi	mks.pi	13	0.14
+empty08_agents-8_unc-3_0.pi	mks.pi	22	0.344
+empty08_agents-8_unc-3_1.pi	mks.pi	23	0.328
+empty08_agents-8_unc-3_2.pi	mks.pi	21	0.297
+empty08_agents-8_unc-3_3.pi	mks.pi	26	0.484
+empty08_agents-8_unc-3_4.pi	mks.pi	23	0.391
+empty08_agents-8_unc-5_0.pi	mks.pi	32	1.234
+empty08_agents-8_unc-5_1.pi	mks.pi	30	0.609
+empty08_agents-8_unc-5_2.pi	mks.pi	28	0.484
+empty08_agents-8_unc-5_3.pi	mks.pi	28	1.235
+empty08_agents-8_unc-5_4.pi	mks.pi	28	0.547
+empty16_agents-10_unc-1_0.pi	mks.pi	28	3.578
+empty16_agents-10_unc-1_1.pi	mks.pi	25	2.688
+empty16_agents-10_unc-1_2.pi	mks.pi	28	4.328
+empty16_agents-10_unc-1_3.pi	mks.pi	25	2.641
+empty16_agents-10_unc-1_4.pi	mks.pi	25	3.234
+empty16_agents-10_unc-3_0.pi	mks.pi	45	13.156
+empty16_agents-10_unc-3_1.pi	mks.pi	41	8.422
+empty16_agents-10_unc-3_2.pi	mks.pi	39	10.688
+empty16_agents-10_unc-3_3.pi	mks.pi	41	7.719
+empty16_agents-10_unc-3_4.pi	mks.pi	43	11.078
+empty16_agents-10_unc-5_0.pi	mks.pi	65	20.109
+empty16_agents-10_unc-5_1.pi	mks.pi	60	12.813
+empty16_agents-10_unc-5_2.pi	mks.pi	64	25.844
+empty16_agents-10_unc-5_3.pi	mks.pi	61	15.907
+empty16_agents-10_unc-5_4.pi	mks.pi	54	9.375
+empty16_agents-12_unc-1_0.pi	mks.pi	28	3.5
+empty16_agents-12_unc-1_1.pi	mks.pi	25	2.969
+empty16_agents-12_unc-1_2.pi	mks.pi	28	4.031
+empty16_agents-12_unc-1_3.pi	mks.pi	25	3.563
+empty16_agents-12_unc-1_4.pi	mks.pi	28	4.36
+empty16_agents-12_unc-3_0.pi	mks.pi	45	17.016
+empty16_agents-12_unc-3_1.pi	mks.pi	41	7.188
+empty16_agents-12_unc-3_2.pi	mks.pi	39	8.562
+empty16_agents-12_unc-3_3.pi	mks.pi	41	11.344
+empty16_agents-12_unc-3_4.pi	mks.pi	46	22.454
+empty16_agents-12_unc-5_0.pi	mks.pi	65	26.688
+empty16_agents-12_unc-5_1.pi	mks.pi	60	21.75
+empty16_agents-12_unc-5_2.pi	mks.pi	64	34.531
+empty16_agents-12_unc-5_3.pi	mks.pi	61	26.734
+empty16_agents-12_unc-5_4.pi	mks.pi	71	63.61
+empty16_agents-14_unc-1_0.pi	mks.pi	28	4.484
+empty16_agents-14_unc-1_1.pi	mks.pi	25	4.875
+empty16_agents-14_unc-1_2.pi	mks.pi	28	8.484
+empty16_agents-14_unc-1_3.pi	mks.pi	25	3.297
+empty16_agents-14_unc-1_4.pi	mks.pi	28	5.875
+empty16_agents-14_unc-3_0.pi	mks.pi	45	25.735
+empty16_agents-14_unc-3_1.pi	mks.pi	41	9.266
+empty16_agents-14_unc-3_2.pi	mks.pi	39	11.829
+empty16_agents-14_unc-3_3.pi	mks.pi	41	22.063
+empty16_agents-14_unc-3_4.pi	mks.pi	46	18.297
+empty16_agents-14_unc-5_0.pi	mks.pi	65	24.047
+empty16_agents-14_unc-5_1.pi	mks.pi	60	21.484
+empty16_agents-14_unc-5_2.pi	mks.pi	64	20.969
+empty16_agents-14_unc-5_3.pi	mks.pi	61	27.734
+empty16_agents-14_unc-5_4.pi	mks.pi		
+empty16_agents-16_unc-1_0.pi	mks.pi	28	9.078
+empty16_agents-16_unc-1_1.pi	mks.pi	25	4.328
+empty16_agents-16_unc-1_2.pi	mks.pi	28	9.922
+empty16_agents-16_unc-1_3.pi	mks.pi	25	6.094
+empty16_agents-16_unc-1_4.pi	mks.pi	28	7.172
+empty16_agents-16_unc-3_0.pi	mks.pi	45	34.844
+empty16_agents-16_unc-3_1.pi	mks.pi	41	11.891
+empty16_agents-16_unc-3_2.pi	mks.pi	39	20.578
+empty16_agents-16_unc-3_3.pi	mks.pi	41	21.703
+empty16_agents-16_unc-3_4.pi	mks.pi	46	27.797
+empty16_agents-16_unc-5_0.pi	mks.pi	65	38.969
+empty16_agents-16_unc-5_1.pi	mks.pi	60	18.984
+empty16_agents-16_unc-5_2.pi	mks.pi	64	27.359
+empty16_agents-16_unc-5_3.pi	mks.pi	61	41.484
+empty16_agents-16_unc-5_4.pi	mks.pi	71	45.906
+empty16_agents-18_unc-1_0.pi	mks.pi	28	7.328
+empty16_agents-18_unc-1_1.pi	mks.pi	25	8.391
+empty16_agents-18_unc-1_2.pi	mks.pi	28	7.25
+empty16_agents-18_unc-1_3.pi	mks.pi	25	7.719
+empty16_agents-18_unc-1_4.pi	mks.pi	28	19.234
+empty16_agents-18_unc-3_0.pi	mks.pi	45	56.282
+empty16_agents-18_unc-3_1.pi	mks.pi	41	31.812
+empty16_agents-18_unc-3_2.pi	mks.pi	39	23.047
+empty16_agents-18_unc-3_3.pi	mks.pi	41	13.797
+empty16_agents-18_unc-3_4.pi	mks.pi	46	29.469
+empty16_agents-18_unc-5_0.pi	mks.pi	65	86.906
+empty16_agents-18_unc-5_1.pi	mks.pi	60	57.797
+empty16_agents-18_unc-5_2.pi	mks.pi		
+empty16_agents-18_unc-5_3.pi	mks.pi	61	61.0
+empty16_agents-18_unc-5_4.pi	mks.pi	71	59.985
+empty16_agents-20_unc-1_0.pi	mks.pi	28	8.531
+empty16_agents-20_unc-1_1.pi	mks.pi	30	19.891
+empty16_agents-20_unc-1_2.pi	mks.pi	28	15.5
+empty16_agents-20_unc-1_3.pi	mks.pi	25	5.641
+empty16_agents-20_unc-1_4.pi	mks.pi	28	12.735
+empty16_agents-20_unc-3_0.pi	mks.pi	45	26.719
+empty16_agents-20_unc-3_1.pi	mks.pi	50	30.36
+empty16_agents-20_unc-3_2.pi	mks.pi	41	15.781
+empty16_agents-20_unc-3_3.pi	mks.pi	41	17.266
+empty16_agents-20_unc-3_4.pi	mks.pi	46	38.172
+empty16_agents-20_unc-5_0.pi	mks.pi	65	38.594
+empty16_agents-20_unc-5_1.pi	mks.pi		
+empty16_agents-20_unc-5_2.pi	mks.pi		
+empty16_agents-20_unc-5_3.pi	mks.pi	61	74.281
+empty16_agents-20_unc-5_4.pi	mks.pi	71	54.75
+empty16_agents-2_unc-1_0.pi	mks.pi	19	0.812
+empty16_agents-2_unc-1_1.pi	mks.pi	24	0.844
+empty16_agents-2_unc-1_2.pi	mks.pi	26	0.86
+empty16_agents-2_unc-1_3.pi	mks.pi	14	0.735
+empty16_agents-2_unc-1_4.pi	mks.pi	13	0.75
+empty16_agents-2_unc-3_0.pi	mks.pi	31	1.063
+empty16_agents-2_unc-3_1.pi	mks.pi	37	1.14
+empty16_agents-2_unc-3_2.pi	mks.pi	38	1.125
+empty16_agents-2_unc-3_3.pi	mks.pi	22	1.015
+empty16_agents-2_unc-3_4.pi	mks.pi	19	0.828
+empty16_agents-2_unc-5_0.pi	mks.pi	47	1.469
+empty16_agents-2_unc-5_1.pi	mks.pi	57	1.796
+empty16_agents-2_unc-5_2.pi	mks.pi	64	3.0
+empty16_agents-2_unc-5_3.pi	mks.pi	34	1.109
+empty16_agents-2_unc-5_4.pi	mks.pi	26	0.954
+empty16_agents-4_unc-1_0.pi	mks.pi	20	1.0
+empty16_agents-4_unc-1_1.pi	mks.pi	24	1.079
+empty16_agents-4_unc-1_2.pi	mks.pi	26	1.203
+empty16_agents-4_unc-1_3.pi	mks.pi	23	1.015
+empty16_agents-4_unc-1_4.pi	mks.pi	25	1.25
+empty16_agents-4_unc-3_0.pi	mks.pi	34	2.687
+empty16_agents-4_unc-3_1.pi	mks.pi	37	2.047
+empty16_agents-4_unc-3_2.pi	mks.pi	38	2.015
+empty16_agents-4_unc-3_3.pi	mks.pi	36	1.969
+empty16_agents-4_unc-3_4.pi	mks.pi	43	2.64
+empty16_agents-4_unc-5_0.pi	mks.pi	47	2.641
+empty16_agents-4_unc-5_1.pi	mks.pi	57	3.485
+empty16_agents-4_unc-5_2.pi	mks.pi	64	5.406
+empty16_agents-4_unc-5_3.pi	mks.pi	54	4.891
+empty16_agents-4_unc-5_4.pi	mks.pi	54	5.047
+empty16_agents-6_unc-1_0.pi	mks.pi	25	1.438
+empty16_agents-6_unc-1_1.pi	mks.pi	24	1.469
+empty16_agents-6_unc-1_2.pi	mks.pi	28	1.891
+empty16_agents-6_unc-1_3.pi	mks.pi	23	1.391
+empty16_agents-6_unc-1_4.pi	mks.pi	25	1.688
+empty16_agents-6_unc-3_0.pi	mks.pi	44	8.125
+empty16_agents-6_unc-3_1.pi	mks.pi	37	4.015
+empty16_agents-6_unc-3_2.pi	mks.pi	39	3.86
+empty16_agents-6_unc-3_3.pi	mks.pi	36	2.594
+empty16_agents-6_unc-3_4.pi	mks.pi	43	4.141
+empty16_agents-6_unc-5_0.pi	mks.pi	55	9.516
+empty16_agents-6_unc-5_1.pi	mks.pi	57	8.078
+empty16_agents-6_unc-5_2.pi	mks.pi	64	6.922
+empty16_agents-6_unc-5_3.pi	mks.pi	54	6.094
+empty16_agents-6_unc-5_4.pi	mks.pi	54	6.125
+empty16_agents-8_unc-1_0.pi	mks.pi	25	1.844
+empty16_agents-8_unc-1_1.pi	mks.pi	25	1.969
+empty16_agents-8_unc-1_2.pi	mks.pi	28	2.297
+empty16_agents-8_unc-1_3.pi	mks.pi	25	1.954
+empty16_agents-8_unc-1_4.pi	mks.pi	25	2.375
+empty16_agents-8_unc-3_0.pi	mks.pi	44	7.0
+empty16_agents-8_unc-3_1.pi	mks.pi	41	3.922
+empty16_agents-8_unc-3_2.pi	mks.pi	39	6.204
+empty16_agents-8_unc-3_3.pi	mks.pi	41	5.172
+empty16_agents-8_unc-3_4.pi	mks.pi	43	12.5
+empty16_agents-8_unc-5_0.pi	mks.pi	60	14.782
+empty16_agents-8_unc-5_1.pi	mks.pi	60	8.906
+empty16_agents-8_unc-5_2.pi	mks.pi	64	12.375
+empty16_agents-8_unc-5_3.pi	mks.pi	61	17.204
+empty16_agents-8_unc-5_4.pi	mks.pi	54	10.328
+empty24_agents-10_unc-1_0.pi	mks.pi	40	23.094
+empty24_agents-10_unc-1_1.pi	mks.pi	36	18.547
+empty24_agents-10_unc-1_2.pi	mks.pi	37	34.64
+empty24_agents-10_unc-1_3.pi	mks.pi	37	36.578
+empty24_agents-10_unc-1_4.pi	mks.pi	40	33.047
+empty24_agents-10_unc-3_0.pi	mks.pi		
+empty24_agents-10_unc-3_1.pi	mks.pi	62	56.016
+empty24_agents-10_unc-3_2.pi	mks.pi	61	50.079
+empty24_agents-10_unc-3_3.pi	mks.pi	63	53.078
+empty24_agents-10_unc-3_4.pi	mks.pi		
+empty24_agents-10_unc-5_0.pi	mks.pi		
+empty24_agents-10_unc-5_1.pi	mks.pi		
+empty24_agents-10_unc-5_2.pi	mks.pi	87	66.562
+empty24_agents-10_unc-5_3.pi	mks.pi		
+empty24_agents-10_unc-5_4.pi	mks.pi		
+empty24_agents-12_unc-1_0.pi	mks.pi	40	42.719
+empty24_agents-12_unc-1_1.pi	mks.pi	36	23.531
+empty24_agents-12_unc-1_2.pi	mks.pi	37	23.328
+empty24_agents-12_unc-1_3.pi	mks.pi	37	39.391
+empty24_agents-12_unc-1_4.pi	mks.pi	40	37.329
+empty24_agents-12_unc-3_0.pi	mks.pi	71	77.047
+empty24_agents-12_unc-3_1.pi	mks.pi	62	90.031
+empty24_agents-12_unc-3_2.pi	mks.pi	61	73.688
+empty24_agents-12_unc-3_3.pi	mks.pi	63	91.031
+empty24_agents-12_unc-3_4.pi	mks.pi		
+empty24_agents-12_unc-5_0.pi	mks.pi		
+empty24_agents-12_unc-5_1.pi	mks.pi		
+empty24_agents-12_unc-5_2.pi	mks.pi		
+empty24_agents-12_unc-5_3.pi	mks.pi		
+empty24_agents-12_unc-5_4.pi	mks.pi		
+empty24_agents-14_unc-1_0.pi	mks.pi	40	69.125
+empty24_agents-14_unc-1_1.pi	mks.pi	36	35.219
+empty24_agents-14_unc-1_2.pi	mks.pi	37	37.547
+empty24_agents-14_unc-1_3.pi	mks.pi	37	32.203
+empty24_agents-14_unc-1_4.pi	mks.pi	40	69.766
+empty24_agents-14_unc-3_0.pi	mks.pi		
+empty24_agents-14_unc-3_1.pi	mks.pi		
+empty24_agents-14_unc-3_2.pi	mks.pi		
+empty24_agents-14_unc-3_3.pi	mks.pi	63	51.219
+empty24_agents-14_unc-3_4.pi	mks.pi		
+empty24_agents-14_unc-5_0.pi	mks.pi		
+empty24_agents-14_unc-5_1.pi	mks.pi		
+empty24_agents-14_unc-5_2.pi	mks.pi		
+empty24_agents-14_unc-5_3.pi	mks.pi		
+empty24_agents-14_unc-5_4.pi	mks.pi		
+empty24_agents-16_unc-1_0.pi	mks.pi	40	66.938
+empty24_agents-16_unc-1_1.pi	mks.pi	36	38.593
+empty24_agents-16_unc-1_2.pi	mks.pi	37	58.016
+empty24_agents-16_unc-1_3.pi	mks.pi	37	62.0
+empty24_agents-16_unc-1_4.pi	mks.pi	40	64.234
+empty24_agents-16_unc-3_0.pi	mks.pi		
+empty24_agents-16_unc-3_1.pi	mks.pi		
+empty24_agents-16_unc-3_2.pi	mks.pi		
+empty24_agents-16_unc-3_3.pi	mks.pi		
+empty24_agents-16_unc-3_4.pi	mks.pi		
+empty24_agents-16_unc-5_0.pi	mks.pi		
+empty24_agents-16_unc-5_1.pi	mks.pi		
+empty24_agents-16_unc-5_2.pi	mks.pi		
+empty24_agents-16_unc-5_3.pi	mks.pi		
+empty24_agents-16_unc-5_4.pi	mks.pi		
+empty24_agents-18_unc-1_0.pi	mks.pi	40	39.704
+empty24_agents-18_unc-1_1.pi	mks.pi	36	63.203
+empty24_agents-18_unc-1_2.pi	mks.pi	37	84.094
+empty24_agents-18_unc-1_3.pi	mks.pi		
+empty24_agents-18_unc-1_4.pi	mks.pi		
+empty24_agents-18_unc-3_0.pi	mks.pi		
+empty24_agents-18_unc-3_1.pi	mks.pi	62	74.172
+empty24_agents-18_unc-3_2.pi	mks.pi		
+empty24_agents-18_unc-3_3.pi	mks.pi		
+empty24_agents-18_unc-3_4.pi	mks.pi		
+empty24_agents-18_unc-5_0.pi	mks.pi		
+empty24_agents-18_unc-5_1.pi	mks.pi		
+empty24_agents-18_unc-5_2.pi	mks.pi		
+empty24_agents-18_unc-5_3.pi	mks.pi		
+empty24_agents-18_unc-5_4.pi	mks.pi		
+empty24_agents-20_unc-1_0.pi	mks.pi	40	53.985
+empty24_agents-20_unc-1_1.pi	mks.pi	36	31.188
+empty24_agents-20_unc-1_2.pi	mks.pi	37	66.907
+empty24_agents-20_unc-1_3.pi	mks.pi	37	83.266
+empty24_agents-20_unc-1_4.pi	mks.pi	40	59.234
+empty24_agents-20_unc-3_0.pi	mks.pi		
+empty24_agents-20_unc-3_1.pi	mks.pi		
+empty24_agents-20_unc-3_2.pi	mks.pi		
+empty24_agents-20_unc-3_3.pi	mks.pi		
+empty24_agents-20_unc-3_4.pi	mks.pi		
+empty24_agents-20_unc-5_0.pi	mks.pi		
+empty24_agents-20_unc-5_1.pi	mks.pi		
+empty24_agents-20_unc-5_2.pi	mks.pi		
+empty24_agents-20_unc-5_3.pi	mks.pi		
+empty24_agents-20_unc-5_4.pi	mks.pi		
+empty24_agents-2_unc-1_0.pi	mks.pi	32	4.625
+empty24_agents-2_unc-1_1.pi	mks.pi	31	4.657
+empty24_agents-2_unc-1_2.pi	mks.pi	22	4.688
+empty24_agents-2_unc-1_3.pi	mks.pi	32	5.094
+empty24_agents-2_unc-1_4.pi	mks.pi	32	4.593
+empty24_agents-2_unc-3_0.pi	mks.pi	56	6.516
+empty24_agents-2_unc-3_1.pi	mks.pi	61	7.047
+empty24_agents-2_unc-3_2.pi	mks.pi	39	5.656
+empty24_agents-2_unc-3_3.pi	mks.pi	59	10.14
+empty24_agents-2_unc-3_4.pi	mks.pi	61	7.015
+empty24_agents-2_unc-5_0.pi	mks.pi	79	12.438
+empty24_agents-2_unc-5_1.pi	mks.pi	73	10.891
+empty24_agents-2_unc-5_2.pi	mks.pi	55	6.532
+empty24_agents-2_unc-5_3.pi	mks.pi	81	9.766
+empty24_agents-2_unc-5_4.pi	mks.pi	80	13.375
+empty24_agents-4_unc-1_0.pi	mks.pi	32	5.578
+empty24_agents-4_unc-1_1.pi	mks.pi	31	5.515
+empty24_agents-4_unc-1_2.pi	mks.pi	37	8.954
+empty24_agents-4_unc-1_3.pi	mks.pi	37	8.079
+empty24_agents-4_unc-1_4.pi	mks.pi	32	5.516
+empty24_agents-4_unc-3_0.pi	mks.pi	56	16.719
+empty24_agents-4_unc-3_1.pi	mks.pi	61	15.656
+empty24_agents-4_unc-3_2.pi	mks.pi	61	29.078
+empty24_agents-4_unc-3_3.pi	mks.pi	63	22.219
+empty24_agents-4_unc-3_4.pi	mks.pi	61	21.625
+empty24_agents-4_unc-5_0.pi	mks.pi	79	23.234
+empty24_agents-4_unc-5_1.pi	mks.pi	73	17.344
+empty24_agents-4_unc-5_2.pi	mks.pi	87	40.156
+empty24_agents-4_unc-5_3.pi	mks.pi	89	28.985
+empty24_agents-4_unc-5_4.pi	mks.pi	80	27.0
+empty24_agents-6_unc-1_0.pi	mks.pi	32	7.359
+empty24_agents-6_unc-1_1.pi	mks.pi	31	7.125
+empty24_agents-6_unc-1_2.pi	mks.pi	37	9.531
+empty24_agents-6_unc-1_3.pi	mks.pi	37	14.891
+empty24_agents-6_unc-1_4.pi	mks.pi	37	10.781
+empty24_agents-6_unc-3_0.pi	mks.pi	56	34.297
+empty24_agents-6_unc-3_1.pi	mks.pi	61	47.015
+empty24_agents-6_unc-3_2.pi	mks.pi	61	56.188
+empty24_agents-6_unc-3_3.pi	mks.pi	63	67.578
+empty24_agents-6_unc-3_4.pi	mks.pi	62	28.906
+empty24_agents-6_unc-5_0.pi	mks.pi	79	54.922
+empty24_agents-6_unc-5_1.pi	mks.pi	73	60.969
+empty24_agents-6_unc-5_2.pi	mks.pi	87	31.875
+empty24_agents-6_unc-5_3.pi	mks.pi	89	74.454
+empty24_agents-6_unc-5_4.pi	mks.pi	87	87.578
+empty24_agents-8_unc-1_0.pi	mks.pi	40	18.437
+empty24_agents-8_unc-1_1.pi	mks.pi	32	8.344
+empty24_agents-8_unc-1_2.pi	mks.pi	37	26.704
+empty24_agents-8_unc-1_3.pi	mks.pi	37	30.187
+empty24_agents-8_unc-1_4.pi	mks.pi	37	24.641
+empty24_agents-8_unc-3_0.pi	mks.pi	71	93.75
+empty24_agents-8_unc-3_1.pi	mks.pi	61	29.938
+empty24_agents-8_unc-3_2.pi	mks.pi		
+empty24_agents-8_unc-3_3.pi	mks.pi	63	58.375
+empty24_agents-8_unc-3_4.pi	mks.pi	62	75.0
+empty24_agents-8_unc-5_0.pi	mks.pi		
+empty24_agents-8_unc-5_1.pi	mks.pi	73	77.625
+empty24_agents-8_unc-5_2.pi	mks.pi		
+empty24_agents-8_unc-5_3.pi	mks.pi		
+empty24_agents-8_unc-5_4.pi	mks.pi		
+random08_agents-10_unc-1_0.pi	mks.pi	14	0.125
+random08_agents-10_unc-1_1.pi	mks.pi	14	0.171
+random08_agents-10_unc-1_2.pi	mks.pi	20	0.515
+random08_agents-10_unc-1_3.pi	mks.pi	18	0.281
+random08_agents-10_unc-1_4.pi	mks.pi	13	0.14
+random08_agents-10_unc-3_0.pi	mks.pi	27	0.36
+random08_agents-10_unc-3_1.pi	mks.pi	23	0.297
+random08_agents-10_unc-3_2.pi	mks.pi	37	0.797
+random08_agents-10_unc-3_3.pi	mks.pi	34	0.813
+random08_agents-10_unc-3_4.pi	mks.pi	24	0.328
+random08_agents-10_unc-5_0.pi	mks.pi	34	1.031
+random08_agents-10_unc-5_1.pi	mks.pi	33	0.578
+random08_agents-10_unc-5_2.pi	mks.pi	51	8.594
+random08_agents-10_unc-5_3.pi	mks.pi	46	1.391
+random08_agents-10_unc-5_4.pi	mks.pi	36	0.703
+random08_agents-12_unc-1_0.pi	mks.pi	14	0.188
+random08_agents-12_unc-1_1.pi	mks.pi	14	0.172
+random08_agents-12_unc-1_2.pi	mks.pi	20	0.609
+random08_agents-12_unc-1_3.pi	mks.pi	18	0.313
+random08_agents-12_unc-1_4.pi	mks.pi	13	0.156
+random08_agents-12_unc-3_0.pi	mks.pi	27	0.5
+random08_agents-12_unc-3_1.pi	mks.pi	23	0.359
+random08_agents-12_unc-3_2.pi	mks.pi	37	1.297
+random08_agents-12_unc-3_3.pi	mks.pi	34	0.86
+random08_agents-12_unc-3_4.pi	mks.pi	24	0.344
+random08_agents-12_unc-5_0.pi	mks.pi	34	1.25
+random08_agents-12_unc-5_1.pi	mks.pi	33	0.687
+random08_agents-12_unc-5_2.pi	mks.pi	51	12.141
+random08_agents-12_unc-5_3.pi	mks.pi	46	1.359
+random08_agents-12_unc-5_4.pi	mks.pi	36	0.89
+random08_agents-14_unc-1_0.pi	mks.pi	15	0.25
+random08_agents-14_unc-1_1.pi	mks.pi	14	0.25
+random08_agents-14_unc-1_2.pi	mks.pi	20	0.75
+random08_agents-14_unc-1_3.pi	mks.pi	18	0.36
+random08_agents-14_unc-1_4.pi	mks.pi	13	0.187
+random08_agents-14_unc-3_0.pi	mks.pi	28	1.266
+random08_agents-14_unc-3_1.pi	mks.pi	23	0.469
+random08_agents-14_unc-3_2.pi	mks.pi	37	1.453
+random08_agents-14_unc-3_3.pi	mks.pi	34	1.36
+random08_agents-14_unc-3_4.pi	mks.pi	24	0.437
+random08_agents-14_unc-5_0.pi	mks.pi	35	2.313
+random08_agents-14_unc-5_1.pi	mks.pi	33	0.813
+random08_agents-14_unc-5_2.pi	mks.pi	51	9.171
+random08_agents-14_unc-5_3.pi	mks.pi	46	1.938
+random08_agents-14_unc-5_4.pi	mks.pi	36	1.0
+random08_agents-16_unc-1_0.pi	mks.pi	15	0.25
+random08_agents-16_unc-1_1.pi	mks.pi	17	0.375
+random08_agents-16_unc-1_2.pi	mks.pi	20	0.828
+random08_agents-16_unc-1_3.pi	mks.pi	18	0.422
+random08_agents-16_unc-1_4.pi	mks.pi	16	0.61
+random08_agents-16_unc-3_0.pi	mks.pi	28	1.531
+random08_agents-16_unc-3_1.pi	mks.pi	23	0.485
+random08_agents-16_unc-3_2.pi	mks.pi	37	1.875
+random08_agents-16_unc-3_3.pi	mks.pi	34	1.641
+random08_agents-16_unc-3_4.pi	mks.pi	30	2.562
+random08_agents-16_unc-5_0.pi	mks.pi	36	3.829
+random08_agents-16_unc-5_1.pi	mks.pi	39	1.843
+random08_agents-16_unc-5_2.pi	mks.pi	51	11.422
+random08_agents-16_unc-5_3.pi	mks.pi	46	3.546
+random08_agents-16_unc-5_4.pi	mks.pi	46	12.094
+random08_agents-18_unc-1_0.pi	mks.pi	17	0.422
+random08_agents-18_unc-1_1.pi	mks.pi	17	0.438
+random08_agents-18_unc-1_2.pi	mks.pi	20	1.016
+random08_agents-18_unc-1_3.pi	mks.pi	18	0.516
+random08_agents-18_unc-1_4.pi	mks.pi	16	0.375
+random08_agents-18_unc-3_0.pi	mks.pi	30	3.312
+random08_agents-18_unc-3_1.pi	mks.pi	24	1.156
+random08_agents-18_unc-3_2.pi	mks.pi	37	1.875
+random08_agents-18_unc-3_3.pi	mks.pi	34	2.047
+random08_agents-18_unc-3_4.pi	mks.pi	30	3.078
+random08_agents-18_unc-5_0.pi	mks.pi	41	7.812
+random08_agents-18_unc-5_1.pi	mks.pi	39	2.844
+random08_agents-18_unc-5_2.pi	mks.pi	51	12.031
+random08_agents-18_unc-5_3.pi	mks.pi	46	4.156
+random08_agents-18_unc-5_4.pi	mks.pi	46	10.656
+random08_agents-20_unc-1_0.pi	mks.pi	17	0.5
+random08_agents-20_unc-1_1.pi	mks.pi	17	0.531
+random08_agents-20_unc-1_2.pi	mks.pi	20	1.359
+random08_agents-20_unc-1_3.pi	mks.pi	18	0.563
+random08_agents-20_unc-1_4.pi	mks.pi	16	0.422
+random08_agents-20_unc-3_0.pi	mks.pi	30	3.796
+random08_agents-20_unc-3_1.pi	mks.pi	24	0.796
+random08_agents-20_unc-3_2.pi	mks.pi	37	3.781
+random08_agents-20_unc-3_3.pi	mks.pi	34	3.015
+random08_agents-20_unc-3_4.pi	mks.pi	30	3.078
+random08_agents-20_unc-5_0.pi	mks.pi	41	6.703
+random08_agents-20_unc-5_1.pi	mks.pi	39	3.187
+random08_agents-20_unc-5_2.pi	mks.pi	51	21.156
+random08_agents-20_unc-5_3.pi	mks.pi	46	5.859
+random08_agents-20_unc-5_4.pi	mks.pi	46	13.11
+random08_agents-2_unc-1_0.pi	mks.pi	14	0.031
+random08_agents-2_unc-1_1.pi	mks.pi	12	0.031
+random08_agents-2_unc-1_2.pi	mks.pi	5	0.031
+random08_agents-2_unc-1_3.pi	mks.pi	7	0.047
+random08_agents-2_unc-1_4.pi	mks.pi	11	0.047
+random08_agents-2_unc-3_0.pi	mks.pi	27	0.063
+random08_agents-2_unc-3_1.pi	mks.pi	18	0.063
+random08_agents-2_unc-3_2.pi	mks.pi	12	0.031
+random08_agents-2_unc-3_3.pi	mks.pi	11	0.047
+random08_agents-2_unc-3_4.pi	mks.pi	18	0.031
+random08_agents-2_unc-5_0.pi	mks.pi	33	0.094
+random08_agents-2_unc-5_1.pi	mks.pi	26	0.063
+random08_agents-2_unc-5_2.pi	mks.pi	18	0.063
+random08_agents-2_unc-5_3.pi	mks.pi	17	0.047
+random08_agents-2_unc-5_4.pi	mks.pi	20	0.063
+random08_agents-4_unc-1_0.pi	mks.pi	14	0.078
+random08_agents-4_unc-1_1.pi	mks.pi	12	0.047
+random08_agents-4_unc-1_2.pi	mks.pi	11	0.063
+random08_agents-4_unc-1_3.pi	mks.pi	18	0.078
+random08_agents-4_unc-1_4.pi	mks.pi	11	0.062
+random08_agents-4_unc-3_0.pi	mks.pi	27	0.172
+random08_agents-4_unc-3_1.pi	mks.pi	18	0.078
+random08_agents-4_unc-3_2.pi	mks.pi	13	0.062
+random08_agents-4_unc-3_3.pi	mks.pi	34	0.265
+random08_agents-4_unc-3_4.pi	mks.pi	18	0.078
+random08_agents-4_unc-5_0.pi	mks.pi	33	0.203
+random08_agents-4_unc-5_1.pi	mks.pi	26	0.14
+random08_agents-4_unc-5_2.pi	mks.pi	20	0.078
+random08_agents-4_unc-5_3.pi	mks.pi	46	0.344
+random08_agents-4_unc-5_4.pi	mks.pi	29	0.11
+random08_agents-6_unc-1_0.pi	mks.pi	14	0.078
+random08_agents-6_unc-1_1.pi	mks.pi	12	0.078
+random08_agents-6_unc-1_2.pi	mks.pi	13	0.094
+random08_agents-6_unc-1_3.pi	mks.pi	18	0.094
+random08_agents-6_unc-1_4.pi	mks.pi	12	0.078
+random08_agents-6_unc-3_0.pi	mks.pi	27	0.235
+random08_agents-6_unc-3_1.pi	mks.pi	18	0.094
+random08_agents-6_unc-3_2.pi	mks.pi	27	0.218
+random08_agents-6_unc-3_3.pi	mks.pi	34	0.36
+random08_agents-6_unc-3_4.pi	mks.pi	19	0.11
+random08_agents-6_unc-5_0.pi	mks.pi	34	0.578
+random08_agents-6_unc-5_1.pi	mks.pi	26	0.125
+random08_agents-6_unc-5_2.pi	mks.pi	34	0.531
+random08_agents-6_unc-5_3.pi	mks.pi	46	0.687
+random08_agents-6_unc-5_4.pi	mks.pi	29	0.171
+random08_agents-8_unc-1_0.pi	mks.pi	14	0.109
+random08_agents-8_unc-1_1.pi	mks.pi	14	0.109
+random08_agents-8_unc-1_2.pi	mks.pi	13	0.078
+random08_agents-8_unc-1_3.pi	mks.pi	18	0.219
+random08_agents-8_unc-1_4.pi	mks.pi	12	0.11
+random08_agents-8_unc-3_0.pi	mks.pi	27	0.328
+random08_agents-8_unc-3_1.pi	mks.pi	23	0.219
+random08_agents-8_unc-3_2.pi	mks.pi	27	0.328
+random08_agents-8_unc-3_3.pi	mks.pi	34	0.563
+random08_agents-8_unc-3_4.pi	mks.pi	20	0.281
+random08_agents-8_unc-5_0.pi	mks.pi	34	0.828
+random08_agents-8_unc-5_1.pi	mks.pi	33	0.438
+random08_agents-8_unc-5_2.pi	mks.pi	34	0.75
+random08_agents-8_unc-5_3.pi	mks.pi	46	1.015
+random08_agents-8_unc-5_4.pi	mks.pi	29	0.281
+random16_agents-10_unc-1_0.pi	mks.pi	24	1.437
+random16_agents-10_unc-1_1.pi	mks.pi	25	1.609
+random16_agents-10_unc-1_2.pi	mks.pi	26	2.766
+random16_agents-10_unc-1_3.pi	mks.pi	24	1.625
+random16_agents-10_unc-1_4.pi	mks.pi	21	1.312
+random16_agents-10_unc-3_0.pi	mks.pi	44	6.734
+random16_agents-10_unc-3_1.pi	mks.pi	41	5.438
+random16_agents-10_unc-3_2.pi	mks.pi	43	3.375
+random16_agents-10_unc-3_3.pi	mks.pi	47	7.875
+random16_agents-10_unc-3_4.pi	mks.pi	34	2.875
+random16_agents-10_unc-5_0.pi	mks.pi	64	18.171
+random16_agents-10_unc-5_1.pi	mks.pi	66	15.375
+random16_agents-10_unc-5_2.pi	mks.pi	62	9.344
+random16_agents-10_unc-5_3.pi	mks.pi	73	42.875
+random16_agents-10_unc-5_4.pi	mks.pi	52	5.813
+random16_agents-12_unc-1_0.pi	mks.pi	24	1.781
+random16_agents-12_unc-1_1.pi	mks.pi	26	3.14
+random16_agents-12_unc-1_2.pi	mks.pi	32	5.672
+random16_agents-12_unc-1_3.pi	mks.pi	24	1.906
+random16_agents-12_unc-1_4.pi	mks.pi	21	1.609
+random16_agents-12_unc-3_0.pi	mks.pi	44	5.953
+random16_agents-12_unc-3_1.pi	mks.pi	51	8.765
+random16_agents-12_unc-3_2.pi	mks.pi	49	17.125
+random16_agents-12_unc-3_3.pi	mks.pi	47	10.765
+random16_agents-12_unc-3_4.pi	mks.pi	34	3.562
+random16_agents-12_unc-5_0.pi	mks.pi	64	21.515
+random16_agents-12_unc-5_1.pi	mks.pi	67	20.828
+random16_agents-12_unc-5_2.pi	mks.pi	84	22.281
+random16_agents-12_unc-5_3.pi	mks.pi	73	24.641
+random16_agents-12_unc-5_4.pi	mks.pi	52	7.719
+random16_agents-14_unc-1_0.pi	mks.pi	24	1.953
+random16_agents-14_unc-1_1.pi	mks.pi	26	4.25
+random16_agents-14_unc-1_2.pi	mks.pi	32	8.0
+random16_agents-14_unc-1_3.pi	mks.pi	24	2.36
+random16_agents-14_unc-1_4.pi	mks.pi	21	1.813
+random16_agents-14_unc-3_0.pi	mks.pi	44	17.828
+random16_agents-14_unc-3_1.pi	mks.pi	51	18.937
+random16_agents-14_unc-3_2.pi	mks.pi	49	13.0
+random16_agents-14_unc-3_3.pi	mks.pi	47	7.843
+random16_agents-14_unc-3_4.pi	mks.pi	34	3.453
+random16_agents-14_unc-5_0.pi	mks.pi	64	13.469
+random16_agents-14_unc-5_1.pi	mks.pi	67	50.25
+random16_agents-14_unc-5_2.pi	mks.pi	84	69.0
+random16_agents-14_unc-5_3.pi	mks.pi	73	26.438
+random16_agents-14_unc-5_4.pi	mks.pi	52	10.766
+random16_agents-16_unc-1_0.pi	mks.pi	24	2.563
+random16_agents-16_unc-1_1.pi	mks.pi	26	4.782
+random16_agents-16_unc-1_2.pi	mks.pi	32	5.203
+random16_agents-16_unc-1_3.pi	mks.pi	25	3.141
+random16_agents-16_unc-1_4.pi	mks.pi	23	2.25
+random16_agents-16_unc-3_0.pi	mks.pi	44	9.735
+random16_agents-16_unc-3_1.pi	mks.pi	51	31.313
+random16_agents-16_unc-3_2.pi	mks.pi	49	17.719
+random16_agents-16_unc-3_3.pi	mks.pi	47	10.829
+random16_agents-16_unc-3_4.pi	mks.pi	42	11.203
+random16_agents-16_unc-5_0.pi	mks.pi	65	19.688
+random16_agents-16_unc-5_1.pi	mks.pi	67	58.641
+random16_agents-16_unc-5_2.pi	mks.pi	84	37.719
+random16_agents-16_unc-5_3.pi	mks.pi	73	27.235
+random16_agents-16_unc-5_4.pi	mks.pi	53	12.078
+random16_agents-18_unc-1_0.pi	mks.pi	24	2.985
+random16_agents-18_unc-1_1.pi	mks.pi	27	6.969
+random16_agents-18_unc-1_2.pi	mks.pi	32	6.281
+random16_agents-18_unc-1_3.pi	mks.pi	25	4.094
+random16_agents-18_unc-1_4.pi	mks.pi	23	3.156
+random16_agents-18_unc-3_0.pi	mks.pi	44	13.25
+random16_agents-18_unc-3_1.pi	mks.pi	51	17.781
+random16_agents-18_unc-3_2.pi	mks.pi	49	11.531
+random16_agents-18_unc-3_3.pi	mks.pi	47	25.172
+random16_agents-18_unc-3_4.pi	mks.pi	42	8.359
+random16_agents-18_unc-5_0.pi	mks.pi	65	25.375
+random16_agents-18_unc-5_1.pi	mks.pi	67	29.61
+random16_agents-18_unc-5_2.pi	mks.pi		
+random16_agents-18_unc-5_3.pi	mks.pi	73	72.0
+random16_agents-18_unc-5_4.pi	mks.pi	62	13.485
+random16_agents-20_unc-1_0.pi	mks.pi	24	3.375
+random16_agents-20_unc-1_1.pi	mks.pi	27	6.922
+random16_agents-20_unc-1_2.pi	mks.pi	32	7.5
+random16_agents-20_unc-1_3.pi	mks.pi	27	4.75
+random16_agents-20_unc-1_4.pi	mks.pi	23	3.469
+random16_agents-20_unc-3_0.pi	mks.pi	44	22.422
+random16_agents-20_unc-3_1.pi	mks.pi	51	25.062
+random16_agents-20_unc-3_2.pi	mks.pi	49	15.531
+random16_agents-20_unc-3_3.pi	mks.pi	48	29.781
+random16_agents-20_unc-3_4.pi	mks.pi	42	8.968
+random16_agents-20_unc-5_0.pi	mks.pi	65	27.312
+random16_agents-20_unc-5_1.pi	mks.pi	67	35.86
+random16_agents-20_unc-5_2.pi	mks.pi	84	53.547
+random16_agents-20_unc-5_3.pi	mks.pi		
+random16_agents-20_unc-5_4.pi	mks.pi	62	27.375
+random16_agents-2_unc-1_0.pi	mks.pi	23	0.578
+random16_agents-2_unc-1_1.pi	mks.pi	24	0.563
+random16_agents-2_unc-1_2.pi	mks.pi	25	0.625
+random16_agents-2_unc-1_3.pi	mks.pi	13	0.562
+random16_agents-2_unc-1_4.pi	mks.pi	21	0.594
+random16_agents-2_unc-3_0.pi	mks.pi	36	0.703
+random16_agents-2_unc-3_1.pi	mks.pi	41	0.813
+random16_agents-2_unc-3_2.pi	mks.pi	41	0.828
+random16_agents-2_unc-3_3.pi	mks.pi	22	0.657
+random16_agents-2_unc-3_4.pi	mks.pi	34	0.765
+random16_agents-2_unc-5_0.pi	mks.pi	45	0.875
+random16_agents-2_unc-5_1.pi	mks.pi	66	1.391
+random16_agents-2_unc-5_2.pi	mks.pi	62	1.11
+random16_agents-2_unc-5_3.pi	mks.pi	41	0.828
+random16_agents-2_unc-5_4.pi	mks.pi	52	1.016
+random16_agents-4_unc-1_0.pi	mks.pi	23	0.719
+random16_agents-4_unc-1_1.pi	mks.pi	24	0.735
+random16_agents-4_unc-1_2.pi	mks.pi	25	0.812
+random16_agents-4_unc-1_3.pi	mks.pi	23	0.812
+random16_agents-4_unc-1_4.pi	mks.pi	21	0.656
+random16_agents-4_unc-3_0.pi	mks.pi	36	1.11
+random16_agents-4_unc-3_1.pi	mks.pi	41	1.391
+random16_agents-4_unc-3_2.pi	mks.pi	41	1.235
+random16_agents-4_unc-3_3.pi	mks.pi	40	1.422
+random16_agents-4_unc-3_4.pi	mks.pi	34	1.078
+random16_agents-4_unc-5_0.pi	mks.pi	45	1.36
+random16_agents-4_unc-5_1.pi	mks.pi	66	2.797
+random16_agents-4_unc-5_2.pi	mks.pi	62	3.297
+random16_agents-4_unc-5_3.pi	mks.pi	48	1.547
+random16_agents-4_unc-5_4.pi	mks.pi	52	1.532
+random16_agents-6_unc-1_0.pi	mks.pi	23	0.906
+random16_agents-6_unc-1_1.pi	mks.pi	24	1.0
+random16_agents-6_unc-1_2.pi	mks.pi	26	1.516
+random16_agents-6_unc-1_3.pi	mks.pi	24	1.015
+random16_agents-6_unc-1_4.pi	mks.pi	21	0.875
+random16_agents-6_unc-3_0.pi	mks.pi	36	1.422
+random16_agents-6_unc-3_1.pi	mks.pi	41	2.328
+random16_agents-6_unc-3_2.pi	mks.pi	43	2.157
+random16_agents-6_unc-3_3.pi	mks.pi	43	3.204
+random16_agents-6_unc-3_4.pi	mks.pi	34	1.5
+random16_agents-6_unc-5_0.pi	mks.pi	52	2.875
+random16_agents-6_unc-5_1.pi	mks.pi	66	5.469
+random16_agents-6_unc-5_2.pi	mks.pi	62	3.562
+random16_agents-6_unc-5_3.pi	mks.pi	61	4.734
+random16_agents-6_unc-5_4.pi	mks.pi	52	2.406
+random16_agents-8_unc-1_0.pi	mks.pi	24	1.14
+random16_agents-8_unc-1_1.pi	mks.pi	25	1.25
+random16_agents-8_unc-1_2.pi	mks.pi	26	2.015
+random16_agents-8_unc-1_3.pi	mks.pi	24	1.203
+random16_agents-8_unc-1_4.pi	mks.pi	21	1.078
+random16_agents-8_unc-3_0.pi	mks.pi	44	5.031
+random16_agents-8_unc-3_1.pi	mks.pi	41	3.391
+random16_agents-8_unc-3_2.pi	mks.pi	43	3.547
+random16_agents-8_unc-3_3.pi	mks.pi	47	4.36
+random16_agents-8_unc-3_4.pi	mks.pi	34	1.765
+random16_agents-8_unc-5_0.pi	mks.pi	64	7.563
+random16_agents-8_unc-5_1.pi	mks.pi	66	8.906
+random16_agents-8_unc-5_2.pi	mks.pi	62	6.235
+random16_agents-8_unc-5_3.pi	mks.pi	73	20.094
+random16_agents-8_unc-5_4.pi	mks.pi	52	3.547
+random24_agents-10_unc-1_0.pi	mks.pi	38	12.875
+random24_agents-10_unc-1_1.pi	mks.pi	49	35.813
+random24_agents-10_unc-1_2.pi	mks.pi	41	25.938
+random24_agents-10_unc-1_3.pi	mks.pi	40	9.547
+random24_agents-10_unc-1_4.pi	mks.pi	40	17.875
+random24_agents-10_unc-3_0.pi	mks.pi	63	27.562
+random24_agents-10_unc-3_1.pi	mks.pi	83	49.688
+random24_agents-10_unc-3_2.pi	mks.pi	76	34.766
+random24_agents-10_unc-3_3.pi	mks.pi	73	48.703
+random24_agents-10_unc-3_4.pi	mks.pi	74	56.688
+random24_agents-10_unc-5_0.pi	mks.pi	96	94.625
+random24_agents-10_unc-5_1.pi	mks.pi		
+random24_agents-10_unc-5_2.pi	mks.pi		
+random24_agents-10_unc-5_3.pi	mks.pi	105	62.625
+random24_agents-10_unc-5_4.pi	mks.pi	103	63.922
+random24_agents-12_unc-1_0.pi	mks.pi	38	19.141
+random24_agents-12_unc-1_1.pi	mks.pi	49	62.735
+random24_agents-12_unc-1_2.pi	mks.pi	41	23.125
+random24_agents-12_unc-1_3.pi	mks.pi	41	21.156
+random24_agents-12_unc-1_4.pi	mks.pi	40	21.844
+random24_agents-12_unc-3_0.pi	mks.pi	63	56.0
+random24_agents-12_unc-3_1.pi	mks.pi		
+random24_agents-12_unc-3_2.pi	mks.pi	76	39.187
+random24_agents-12_unc-3_3.pi	mks.pi	73	41.907
+random24_agents-12_unc-3_4.pi	mks.pi	74	70.954
+random24_agents-12_unc-5_0.pi	mks.pi		
+random24_agents-12_unc-5_1.pi	mks.pi		
+random24_agents-12_unc-5_2.pi	mks.pi		
+random24_agents-12_unc-5_3.pi	mks.pi		
+random24_agents-12_unc-5_4.pi	mks.pi		
+random24_agents-14_unc-1_0.pi	mks.pi	40	25.703
+random24_agents-14_unc-1_1.pi	mks.pi	49	48.969
+random24_agents-14_unc-1_2.pi	mks.pi	41	29.734
+random24_agents-14_unc-1_3.pi	mks.pi	41	37.062
+random24_agents-14_unc-1_4.pi	mks.pi	43	30.985
+random24_agents-14_unc-3_0.pi	mks.pi	77	43.828
+random24_agents-14_unc-3_1.pi	mks.pi	83	86.406
+random24_agents-14_unc-3_2.pi	mks.pi		
+random24_agents-14_unc-3_3.pi	mks.pi	73	80.359
+random24_agents-14_unc-3_4.pi	mks.pi	76	46.172
+random24_agents-14_unc-5_0.pi	mks.pi	99	77.188
+random24_agents-14_unc-5_1.pi	mks.pi		
+random24_agents-14_unc-5_2.pi	mks.pi		
+random24_agents-14_unc-5_3.pi	mks.pi		
+random24_agents-14_unc-5_4.pi	mks.pi		
+random24_agents-16_unc-1_0.pi	mks.pi	40	30.5
+random24_agents-16_unc-1_1.pi	mks.pi	49	70.219
+random24_agents-16_unc-1_2.pi	mks.pi	46	69.0
+random24_agents-16_unc-1_3.pi	mks.pi	41	24.984
+random24_agents-16_unc-1_4.pi	mks.pi	43	41.578
+random24_agents-16_unc-3_0.pi	mks.pi	77	90.047
+random24_agents-16_unc-3_1.pi	mks.pi	83	65.328
+random24_agents-16_unc-3_2.pi	mks.pi	81	82.922
+random24_agents-16_unc-3_3.pi	mks.pi		
+random24_agents-16_unc-3_4.pi	mks.pi		
+random24_agents-16_unc-5_0.pi	mks.pi		
+random24_agents-16_unc-5_1.pi	mks.pi		
+random24_agents-16_unc-5_2.pi	mks.pi		
+random24_agents-16_unc-5_3.pi	mks.pi		
+random24_agents-16_unc-5_4.pi	mks.pi		
+random24_agents-18_unc-1_0.pi	mks.pi	40	30.719
+random24_agents-18_unc-1_1.pi	mks.pi	49	53.657
+random24_agents-18_unc-1_2.pi	mks.pi	46	54.734
+random24_agents-18_unc-1_3.pi	mks.pi	44	60.86
+random24_agents-18_unc-1_4.pi	mks.pi	43	62.703
+random24_agents-18_unc-3_0.pi	mks.pi	77	71.625
+random24_agents-18_unc-3_1.pi	mks.pi		
+random24_agents-18_unc-3_2.pi	mks.pi		
+random24_agents-18_unc-3_3.pi	mks.pi		
+random24_agents-18_unc-3_4.pi	mks.pi		
+random24_agents-18_unc-5_0.pi	mks.pi		
+random24_agents-18_unc-5_1.pi	mks.pi		
+random24_agents-18_unc-5_2.pi	mks.pi		
+random24_agents-18_unc-5_3.pi	mks.pi		
+random24_agents-18_unc-5_4.pi	mks.pi		
+random24_agents-20_unc-1_0.pi	mks.pi	42	42.703
+random24_agents-20_unc-1_1.pi	mks.pi	49	65.64
+random24_agents-20_unc-1_2.pi	mks.pi	46	73.344
+random24_agents-20_unc-1_3.pi	mks.pi	44	39.328
+random24_agents-20_unc-1_4.pi	mks.pi	43	84.359
+random24_agents-20_unc-3_0.pi	mks.pi		
+random24_agents-20_unc-3_1.pi	mks.pi		
+random24_agents-20_unc-3_2.pi	mks.pi		
+random24_agents-20_unc-3_3.pi	mks.pi	73	85.844
+random24_agents-20_unc-3_4.pi	mks.pi		
+random24_agents-20_unc-5_0.pi	mks.pi		
+random24_agents-20_unc-5_1.pi	mks.pi		
+random24_agents-20_unc-5_2.pi	mks.pi		
+random24_agents-20_unc-5_3.pi	mks.pi		
+random24_agents-20_unc-5_4.pi	mks.pi		
+random24_agents-2_unc-1_0.pi	mks.pi	27	3.344
+random24_agents-2_unc-1_1.pi	mks.pi	37	3.36
+random24_agents-2_unc-1_2.pi	mks.pi	15	3.25
+random24_agents-2_unc-1_3.pi	mks.pi	38	3.812
+random24_agents-2_unc-1_4.pi	mks.pi	40	3.578
+random24_agents-2_unc-3_0.pi	mks.pi	44	3.312
+random24_agents-2_unc-3_1.pi	mks.pi	64	4.25
+random24_agents-2_unc-3_2.pi	mks.pi	26	3.359
+random24_agents-2_unc-3_3.pi	mks.pi	64	5.641
+random24_agents-2_unc-3_4.pi	mks.pi	74	6.375
+random24_agents-2_unc-5_0.pi	mks.pi	60	4.11
+random24_agents-2_unc-5_1.pi	mks.pi	86	5.984
+random24_agents-2_unc-5_2.pi	mks.pi	37	3.86
+random24_agents-2_unc-5_3.pi	mks.pi	87	11.828
+random24_agents-2_unc-5_4.pi	mks.pi	95	11.578
+random24_agents-4_unc-1_0.pi	mks.pi	31	3.907
+random24_agents-4_unc-1_1.pi	mks.pi	37	4.157
+random24_agents-4_unc-1_2.pi	mks.pi	33	4.282
+random24_agents-4_unc-1_3.pi	mks.pi	38	5.344
+random24_agents-4_unc-1_4.pi	mks.pi	40	4.75
+random24_agents-4_unc-3_0.pi	mks.pi	54	5.469
+random24_agents-4_unc-3_1.pi	mks.pi	64	9.594
+random24_agents-4_unc-3_2.pi	mks.pi	60	8.906
+random24_agents-4_unc-3_3.pi	mks.pi	64	16.922
+random24_agents-4_unc-3_4.pi	mks.pi	74	21.234
+random24_agents-4_unc-5_0.pi	mks.pi	80	27.078
+random24_agents-4_unc-5_1.pi	mks.pi	86	18.672
+random24_agents-4_unc-5_2.pi	mks.pi	83	22.797
+random24_agents-4_unc-5_3.pi	mks.pi	87	21.579
+random24_agents-4_unc-5_4.pi	mks.pi	95	16.265
+random24_agents-6_unc-1_0.pi	mks.pi	38	5.469
+random24_agents-6_unc-1_1.pi	mks.pi	37	5.765
+random24_agents-6_unc-1_2.pi	mks.pi	41	8.766
+random24_agents-6_unc-1_3.pi	mks.pi	40	8.078
+random24_agents-6_unc-1_4.pi	mks.pi	40	7.422
+random24_agents-6_unc-3_0.pi	mks.pi	63	20.407
+random24_agents-6_unc-3_1.pi	mks.pi	64	17.782
+random24_agents-6_unc-3_2.pi	mks.pi	76	30.156
+random24_agents-6_unc-3_3.pi	mks.pi	73	30.438
+random24_agents-6_unc-3_4.pi	mks.pi	74	27.234
+random24_agents-6_unc-5_0.pi	mks.pi	96	58.734
+random24_agents-6_unc-5_1.pi	mks.pi	86	42.859
+random24_agents-6_unc-5_2.pi	mks.pi		
+random24_agents-6_unc-5_3.pi	mks.pi	105	51.547
+random24_agents-6_unc-5_4.pi	mks.pi	95	32.172
+random24_agents-8_unc-1_0.pi	mks.pi	38	8.219
+random24_agents-8_unc-1_1.pi	mks.pi	37	10.406
+random24_agents-8_unc-1_2.pi	mks.pi	41	13.313
+random24_agents-8_unc-1_3.pi	mks.pi	40	10.469
+random24_agents-8_unc-1_4.pi	mks.pi	40	11.234
+random24_agents-8_unc-3_0.pi	mks.pi	63	17.687
+random24_agents-8_unc-3_1.pi	mks.pi	64	31.625
+random24_agents-8_unc-3_2.pi	mks.pi	76	33.125
+random24_agents-8_unc-3_3.pi	mks.pi	73	67.437
+random24_agents-8_unc-3_4.pi	mks.pi	74	57.859
+random24_agents-8_unc-5_0.pi	mks.pi	96	47.079
+random24_agents-8_unc-5_1.pi	mks.pi	86	31.157
+random24_agents-8_unc-5_2.pi	mks.pi	112	47.813
+random24_agents-8_unc-5_3.pi	mks.pi		
+random24_agents-8_unc-5_4.pi	mks.pi	95	51.437
