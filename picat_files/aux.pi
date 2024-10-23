@@ -52,6 +52,14 @@ pessimistic_path_cost((V,FV),Cost) =>
     pessimistic_path_cost((NextV,FV),Cost1),
     Cost = Cost1+CostUU.
 
+get_pessimistic_soc(Agents) = LB =>
+    get_pessimistic_soc(Agents,0,LB).
+
+get_pessimistic_soc([],LB0,LB) => LB = LB0.
+get_pessimistic_soc([A|As],LB0,LB) =>
+    pessimistic_path_cost(A,Cost),
+	get_pessimistic_soc(As,LB0 + Cost,LB). 
+
 get_agents(Instance) = A =>
     $instance(_,A) = Instance.
 
@@ -126,4 +134,5 @@ get_edges_time(T,EID) = Times =>
     %printf("EID %w, %w, %w - %w, %w\n", EID,T,LU,UU,Times).
 
 output(Plans, Cost) =>
+    printf("%w\n",Plans),
     printf("Cost %w\n", Cost).

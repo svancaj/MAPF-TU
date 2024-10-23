@@ -8,12 +8,13 @@ main([InstanceFile]) =>
     time((Plans, Final_Cost) = find_plans(Instance)),
     output(Plans, Final_Cost).
 
-find_plans(Instance) = (Plans, Pes_LB + Delta) =>
+find_plans(Instance) = (Plans, Pes_LB_soc + Delta) =>
     (N,E) = create_graph(Instance),
     Agents = get_agents(Instance),
     
     Opt_LB = get_optimistic_mks(Agents) + 1,
     Pes_LB = get_pessimistic_mks(Agents) + 1,
+    Pes_LB_soc = get_pessimistic_soc(Agents) + len(Agents),
 
     printf("LB opt - %w, pes - w %w\n", Opt_LB, Pes_LB),
 
