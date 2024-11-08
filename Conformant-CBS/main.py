@@ -18,6 +18,10 @@ if __name__ == '__main__':
     #                comm_mode=(False,), mbc=(False,), pc=(True,), bp=(True,), 
     #                maps=('kiva','empty08','empty16','empty24','random08','random16','random24'), reps=5, time_limit=1)
 
-    run_experiments(u=(1,3,5), agents=(2,4,6,8,10,12,14,16,18,20), sense_prob=(0,), edge_dist=('uni',),
+    #run_experiments(u=(1,3,5), agents=(2,4,6,8,10,12,14,16,18,20), sense_prob=(0,), edge_dist=('uni',),
+    #                comm_mode=(False,), mbc=(False,), pc=(True,), bp=(True,), 
+    #                maps=('empty08','empty16','empty24','random08','random16','random24'), reps=5, time_limit=300)
+    
+    run_experiments(u=(1,), agents=(2,), sense_prob=(0,), edge_dist=('uni',),
                     comm_mode=(False,), mbc=(False,), pc=(True,), bp=(True,), 
-                    maps=('empty08','empty16','empty24','random08','random16','random24'), reps=5, time_limit=300)
+                    maps=('random08',), reps=1, time_limit=300)
