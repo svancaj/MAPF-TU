@@ -1,4 +1,7 @@
 *.qi
+__pycache__
+*.xlsx
 Conformant-CBS/experiments/*
 Conformant-CBS/solutions/*
 Conformant-CBS/picat_instances/*
+ICAART

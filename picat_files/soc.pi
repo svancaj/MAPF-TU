@@ -16,7 +16,8 @@ find_plans(Instance) = (Plans, Pes_LB_soc + Delta) =>
     Pes_LB = get_pessimistic_mks(Agents) + 1,
     Pes_LB_soc = get_pessimistic_soc(Agents) + len(Agents),
 
-    printf("LB opt - %w, pes - w %w\n", Opt_LB, Pes_LB),
+    printf("LB opt - %w, pes - %w\n", Opt_LB, Pes_LB),
+    printf("SOC LB pes - %w\n", Pes_LB_soc),
 
     between(0, 9999999, Delta),
 
