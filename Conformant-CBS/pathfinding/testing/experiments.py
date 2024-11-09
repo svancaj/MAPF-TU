@@ -120,6 +120,7 @@ class Experiments:
             try:
                 loaded_sol = TimeUncertaintySolution.load(self.agents_num, self.uncertainty, map_type, agent_seed,
                                                           map_seed, self.min_best_case, use_pc, use_bp, sol_folder)
+                loaded_sol = False
                 if loaded_sol and loaded_sol.paths == {}:  # It was a timed out solution
                     raise OutOfTimeError
                 start_time = time.time()
@@ -179,7 +180,7 @@ class Experiments:
                                     str(self.uncertainty) + '\t' +
                                     str(i) + '\t' + 
                                     "CBSTU" + '\t' + 
-                                    str(max_sic) + '\t' +
+                                    str(octu_cost[1]) + '\t' +
                                     str(init_time) + '\n')
 
             with open(temp_path, 'a') as temp_map_result_file:

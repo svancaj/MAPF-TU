@@ -183,8 +183,17 @@ class ConstraintNode:
                         if pres[2] != move[2] and not Cas.overlapping(move[0], pres[1]):  # Opposite directions
                             continue  # no conflict
                         if pres[2] == move[2]:  # Trickier conflict option, same direction
-                            occ_i = move[0][0]+1, move[0][1]-1  # Actual occupation times
-                            occ_j = pres[1][0]+1, pres[1][1]-1
+
+                            ###########################################################################################
+                            ### fixed the original code to forbid two agents on the same edge in the same direction ###
+                            ###########################################################################################
+                            # original code:
+                            #occ_i = move[0][0]+1, move[0][1]-1  # Actual occupation times
+                            #occ_j = pres[1][0]+1, pres[1][1]-1
+
+                            occ_i = move[0][0], move[0][1]-1  # Actual occupation times
+                            occ_j = pres[1][0], pres[1][1]-1
+
                             if not Cas.overlapping(occ_i, occ_j):
                                 continue
                         cn[edge].append((pres[0], agent, pres[1], move[0], pres[2], move[2]))
@@ -299,8 +308,17 @@ class ConstraintNode:
                             if not Cas.overlapping(move[0], other_pres[0]):
                                 continue  # no conflict
                         else:  # Same direction
-                            occ_1 = move[0][0], move[0][1] - 1  # Same direction -> last time tick doesn't matter
-                            occ_2 = other_pres[0][0], other_pres[0][1] - 1
+
+                            ###########################################################################################
+                            ### fixed the original code to forbid two agents on the same edge in the same direction ###
+                            ###########################################################################################
+                            # original code:
+                            #occ_1 = move[0][0], move[0][1] - 1  # Same direction -> last time tick doesn't matter
+                            #occ_2 = other_pres[0][0], other_pres[0][1] - 1
+
+                            occ_1 = move[0][0], move[0][1]  # Same direction -> last time tick doesn't matter
+                            occ_2 = other_pres[0][0], other_pres[0][1]
+
                             if not self.strong_overlapping(occ_1, occ_2):
                                 continue  # It's not a conflict
                         self.conflicts[move[1]].append((agent, other, move[0], other_pres[0], move[2], other_pres[1]))
