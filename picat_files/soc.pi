@@ -19,7 +19,7 @@ find_plans(Instance) = (Plans, Pes_LB_soc + Delta) =>
     printf("LB opt - %w, pes - %w\n", Opt_LB, Pes_LB),
     printf("SOC LB pes - %w\n", Pes_LB_soc),
 
-    between(0, 2, Delta),
+    between(0, 9999999, Delta),
 
     printf("Building formula using delta %w\n", Delta),
     Plans = create_formula(N, E, Agents, Opt_LB, Pes_LB, Delta),
