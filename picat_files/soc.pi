@@ -19,7 +19,7 @@ find_plans(Instance) = (Plans, Pes_LB_soc + Delta) =>
     printf("LB opt - %w, pes - %w\n", Opt_LB, Pes_LB),
     printf("SOC LB pes - %w\n", Pes_LB_soc),
 
-    between(0, 9999999, Delta),
+    between(0, 2, Delta),
 
     printf("Building formula using delta %w\n", Delta),
     Plans = create_formula(N, E, Agents, Opt_LB, Pes_LB, Delta),
@@ -113,30 +113,36 @@ create_formula(N, E, Agents, Opt_LB, Pes_LB, Delta) = At =>
     % SOC RESTRICTION
 
     % Compute end times and weighted costs
-    ET = end_time(At, Agents, Makespan, N),
+    ET = end_time(At, Pass, Agents, Makespan, N, E),
     sum([ET[A,T] : A in 1..K, T in 1..Makespan]) #=< Delta.
     
 
-%  ET[A,T]=1 iff agent A is late at time T (i.e. A is not at its destination at T for T > "lower bound for agent path")
-end_time(At, Agents, Makespan, N) = ET =>
+    %  ET[A,T]=1 iff agent A is late at time T (i.e. A is not at its destination at T for T > "lower bound for agent path")
+    end_time(At, Pass, Agents, Makespan, N, E) = ET =>
     ET = new_array(len(Agents), Makespan),
     ET :: 0..1,
-    foreach (A in 1..len(Agents), T in 1..Makespan)
+
+    foreach (A in 1..len(Agents))
         (Start, Goal) = Agents[A],
         pessimistic_path_cost((Start,Goal),PathLength),
 
-        if T > PathLength then 
-            %#~ At[T,A,Goal] #=> ET[A,T],  % agent is not at destination and hence it is late
-            %#~ ET[A,T] #=> At[T,A,Goal],  % agent is not late and hence must be at destination
-
-            (sum([At[T,A,V] : V in 1..N, V !== Goal]) #>= 1) #=> ET[A,T],  % agent is somewhere else than at goal and hence it is late
-            #~ ET[A,T] #=> At[T,A,Goal],  % agent is not late and hence must be at destination
-            %#~ ET[A,T] #=> (sum([At[T,A,V] : V in 1..N, V !== Goal]) #= 0), % agent is not late and hence must be at destination and nowhere else
-
-            if T < Makespan then 
-                #~ ET[A,T] #=> #~ ET[A,T+1]  % agent is not late at T and hence cannot be late at T+1
-            end
-        else
+        foreach (T in 1..PathLength+1)
             ET[A,T] = 0  % agent is not late at T because T =< "lower bound for agent path"
+        end,
+
+        foreach (T in PathLength+2..Makespan-1)
+            #~ ET[A,T] #=> #~ ET[A,T+1],  % agent is not late at T and hence cannot be late at T+1
+        end,
+
+        foreach (T in 1..Makespan-1)
+            foreach(EID in 1..E) 
+                edgeid(EID, U, V, LU, UU),
+
+                if Pass[T,A,EID] !== 0 && V == Goal && U !== V then     % ignore edges that can not be traversed
+                    if T + UU > PathLength+1 then 
+                        Pass[T,A,EID] #=> ET[A,T+UU]     % agent is using edge hence must be late when he arrives
+                    end
+                end
+            end
         end
     end.
